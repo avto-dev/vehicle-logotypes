@@ -1,0 +1,8 @@
+# IDEs
+/nbproject
+/.idea
+
+# etc.
+/temp
+/tmp
+/build
