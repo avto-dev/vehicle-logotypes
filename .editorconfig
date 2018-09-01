@@ -7,5 +7,8 @@ insert_final_newline=true
 indent_style=space
 indent_size=4
 
-[*.{yml,yaml,sh,json}]
+[*.{yml,yaml,sh}]
+indent_size = 2
+
+[src/**.js]
 indent_size = 2
