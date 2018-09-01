@@ -7,21 +7,29 @@
 [![Packagist version][badge_packagist_version]][link_packagist]
 [![License][badge_license]][link_license]
 
-![Logos plate](https://hsto.org/webt/yn/zt/of/ynztofgsdzwqxq2ihdxaudzreue.jpeg)
+This repository contains [structured file](./src/vehicle-logotypes.json) (`json` format) with absolute links to the vehicle logotypes images. Time to time we will update it. Also you can require this package as an dependency of your application.
 
-## Install
+Demo [available here][demo].
+
+[![Logos plate](https://hsto.org/webt/zc/em/4n/zcem4nygx8qmia8jauczu6hxbfk.jpeg)][demo]
+
+All images were taken from open sources, like that:
+
+- [carlogos.org](http://www.carlogos.org/)
+- [Google images](https://www.google.com/imghp?tbm=isch&tbs=imgo:1)
+- [wikipedia.org](https://en.wikipedia.org/)
+
+## Installation
 
 ### Using composer (PHP)
 
 Require this package with composer using the following command:
 
 ```shell
-$ composer require avto-dev/vehicle-logotypes "^1.0"
+$ composer require avto-dev/vehicle-logotypes
 ```
 
 > Installed `composer` is required ([how to install composer][getcomposer]).
-
-> You need to fix the major version of package.
 
 ### Using npm (node)
 
@@ -51,12 +59,12 @@ All images are the property of their respective owners. If you found any image c
 
 This package is open-sourced software licensed under the [MIT License][link_license].
 
-[badge_packagist_version]:https://img.shields.io/packagist/v/avto-dev/vehicle-logotypes.svg?style=for-the-badge&maxAge=180
+[badge_packagist_version]:https://img.shields.io/packagist/v/avto-dev/vehicle-logotypes.svg?style=for-the-badge&maxAge=60
 [badge_license]:https://img.shields.io/packagist/l/avto-dev/vehicle-logotypes.svg?style=for-the-badge&longCache=true
-[badge_release_date]:https://img.shields.io/github/release-date/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=180
-[badge_commits_since_release]:https://img.shields.io/github/commits-since/avto-dev/vehicle-logotypes/latest.svg?style=flat-square&maxAge=180
-[badge_issues]:https://img.shields.io/github/issues/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=180
-[badge_pulls]:https://img.shields.io/github/issues-pr/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=180
+[badge_release_date]:https://img.shields.io/github/release-date/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=60
+[badge_commits_since_release]:https://img.shields.io/github/commits-since/avto-dev/vehicle-logotypes/latest.svg?style=flat-square&maxAge=60
+[badge_issues]:https://img.shields.io/github/issues/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=60
+[badge_pulls]:https://img.shields.io/github/issues-pr/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=60
 [link_releases]:https://github.com/avto-dev/vehicle-logotypes/releases
 [link_packagist]:https://packagist.org/packages/avto-dev/vehicle-logotypes
 [link_changes_log]:https://github.com/avto-dev/vehicle-logotypes/blob/master/CHANGELOG.md
@@ -66,3 +74,4 @@ This package is open-sourced software licensed under the [MIT License][link_lice
 [link_pulls]:https://github.com/avto-dev/vehicle-logotypes/pulls
 [link_license]:https://github.com/avto-dev/vehicle-logotypes/blob/master/LICENSE
 [getcomposer]:https://getcomposer.org/download/
+[demo]:https://avto-dev.github.io/vehicle-logotypes/
