@@ -2,9 +2,192 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Vehicle logotypes | Example</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE="
+          crossorigin="anonymous" />
+    <link rel="stylesheet" href="assets/app.css">
 </head>
 <body>
-    Body
+
+<div id="app" class="wrapper toggled">
+    <div id="sidebar-wrapper">
+        <ul class="sidebar-nav logotypes-plate">
+            <li>
+                <input type="text" class="form-control search" placeholder="Search" v-model="search" />
+            </li>
+            <li v-for="(item, key) of filteredLogotypes">
+                <a :href="'#'+ key" @click="selectLogotype(key)">
+                    {{ item.name }}
+                </a>
+            </li>
+        </ul>
+    </div>
+
+    <div id="page-content-wrapper">
+        <div class="container-fluid">
+            <div class="row">
+                <div
+                        v-for="(item, key) of filteredLogotypes"
+                        class="col-lg-2 col-md-4 col-xs-6 plate-item"
+                        :class="{'active': selectedLogotypeKey === key}"
+                        @click="selectLogotype(key); modalVisibility = true"
+                >
+                    <h4 class="name text-center"><a :name="key">{{ item.name }}</a></h4>
+                    <img
+                            :src="item.logotype.uri"
+                            :alt="item.name"
+                            class="zoom img-fluid"
+                    />
+                    <div class="hints">
+                        <span v-if="item.alternatives.length > 0" class="badge badge-info">+{{ item.alternatives.length }}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade show" tabindex="-1" role="dialog" v-if="modalVisibility">
+        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">{{ activeLogotype.name }}</h5>
+                    <button
+                            type="button"
+                            class="close"
+                            data-dismiss="modal"
+                            aria-label="Close"
+                            @click="modalVisibility = false"
+                    >
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="text-center">
+                        <img
+                                :src="activeLogotype.logotype.uri"
+                                class="rounded pb-4"
+                                :alt="activeLogotype.name"
+                        >
+                    </div>
+                    <table class="table">
+                        <thead>
+                        <tr>
+                            <th scope="col">Width</th>
+                            <th scope="col">Height</th>
+                            <th scope="col">Mime type</th>
+                            <th scope="col">Transparent</th>
+                            <th scope="col">Size</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td>{{ activeLogotype.logotype.width }}</td>
+                            <td>{{ activeLogotype.logotype.height }}</td>
+                            <td>{{ activeLogotype.logotype.mime }}</td>
+                            <td>{{ activeLogotype.logotype.transparent }}</td>
+                            <td>{{ Number((activeLogotype.logotype.size / 1024).toFixed(1)) }} Kb</td>
+                        </tr>
+                        </tbody>
+                    </table>
+
+                    <div v-if="activeLogotype.alternatives.length > 0">
+                        <hr />
+                        <h5>Alternative images</h5>
+
+                        <div v-for="alternative of activeLogotype.alternatives">
+                            <div class="text-center">
+                                <a target="_blank" :href="alternative.uri">
+                                    <img
+                                            :src="alternative.uri"
+                                            class="rounded pb-4"
+                                            height="200"
+                                    >
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button
+                            type="button"
+                            class="btn btn-primary"
+                            data-dismiss="modal"
+                            @click="modalVisibility = false"
+                    >Close
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div
+            class="modal-backdrop fade show"
+            v-if="modalVisibility"
+    ></div>
+</div>
+
+<div>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js"
+        integrity="sha256-FtWfRI+thWlNz2sB3SJbwKx5PgMyKIVgwHCTwa3biXc="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"
+        integrity="sha256-mpnrJ5DpEZZkwkE1ZgkEQQJW/46CSEh/STrZKOB/qoM="
+        crossorigin="anonymous"></script>
+<script>
+    const source = 'https://cdn.rawgit.com/avto-dev/vehicle-logotypes/e5962ddc/src/vehicle-logotypes.json';
+
+    const app = new Vue({
+        el: '#app',
+        data: {
+            logotypes: {},
+            activeLogotype: {},
+            selectedLogotypeKey: '',
+            search: '',
+            modalVisibility: false
+        },
+        methods: {
+            selectLogotype: function (key) {
+                this.selectedLogotypeKey = key;
+                this.activeLogotype = this.logotypes[key];
+            }
+        },
+        computed: {
+            filteredLogotypes: function () {
+                var search = this.search.trim().toUpperCase(),
+                    result = {},
+                    self = this;
+
+                if (search !== '') {
+                    Object.keys(this.logotypes).forEach(function (key, index) {
+                        if (self.logotypes[key].name.trim().toUpperCase().indexOf(search) > -1) {
+                            result[key] = self.logotypes[key];
+                        }
+                    });
+
+                    return result;
+                }
+
+                return this.logotypes;
+            }
+        }
+    });
+
+    axios
+        .get(source)
+        .then(function (response) {
+            if (typeof response.data === 'object') {
+                app.logotypes = response.data;
+            } else {
+                throw new Error('Invalid response format');
+            }
+        })
+        .catch(function () {
+            throw new Error('Remote server error');
+        });
+</script>
 </body>
 </html>
