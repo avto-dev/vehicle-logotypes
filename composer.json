@@ -1,0 +1,27 @@
+{
+    "name": "avto-dev/vehicle-logotypes",
+    "description": "Vehicle logotypes set",
+    "keywords": [
+        "vehicle",
+        "logotype",
+        "avto-dev"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Avto Develop",
+            "homepage": "https://github.com/avto-dev"
+        }
+    ],
+    "require": {
+        "php": "*"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "support": {
+        "issues": "https://github.com/avto-dev/vehicle-logotypes/issues",
+        "source": "https://github.com/avto-dev/vehicle-logotypes"
+    }
+}

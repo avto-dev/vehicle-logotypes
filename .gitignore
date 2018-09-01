@@ -1,6 +1,12 @@
+# Composer lock file
+composer.lock
+
 # IDEs
 /nbproject
 /.idea
+
+# Vendors
+/vendor
 
 # etc.
 /temp
