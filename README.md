@@ -47,7 +47,9 @@ If you will find any package errors, please, [make an issue][link_create_issue] 
 
 ## License
 
-This is open-sourced software licensed under the [MIT License][link_license].
+All images are the property of their respective owners. If you found any image copyrighted to yours, Please contact us, so we can remove it.
+
+This package is open-sourced software licensed under the [MIT License][link_license].
 
 [badge_packagist_version]:https://img.shields.io/packagist/v/avto-dev/vehicle-logotypes.svg?style=for-the-badge&maxAge=180
 [badge_license]:https://img.shields.io/packagist/l/avto-dev/vehicle-logotypes.svg?style=for-the-badge&longCache=true
