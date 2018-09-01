@@ -9,11 +9,15 @@
 
 This repository contains [structured file](./src/vehicle-logotypes.json) (`json` format) with absolute links to the vehicle logotypes images. Time to time we will update it. Also you can require this package as an dependency of your application.
 
-Demo [available here][demo].
+All images were **compressed** using [tinypng.com][tinypng] service (this is the best images compressor).
+
+Demonstration [available here][demo] (wrote using VueJs library).
 
 [![Logos plate](https://hsto.org/webt/zc/em/4n/zcem4nygx8qmia8jauczu6hxbfk.jpeg)][demo]
 
-All images were taken from open sources, like that:
+### Images sources
+
+All images were taken from open sources, like:
 
 - [carlogos.org](http://www.carlogos.org/)
 - [Google images](https://www.google.com/imghp?tbm=isch&tbs=imgo:1)
@@ -74,4 +78,5 @@ This package is open-sourced software licensed under the [MIT License][link_lice
 [link_pulls]:https://github.com/avto-dev/vehicle-logotypes/pulls
 [link_license]:https://github.com/avto-dev/vehicle-logotypes/blob/master/LICENSE
 [getcomposer]:https://getcomposer.org/download/
+[tinypng]:https://tinypng.com/
 [demo]:https://avto-dev.github.io/vehicle-logotypes/
