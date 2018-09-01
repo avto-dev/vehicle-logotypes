@@ -23,6 +23,14 @@ $ composer require avto-dev/vehicle-logotypes "^1.0"
 
 > You need to fix the major version of package.
 
+### Using npm (node)
+
+Require this package with npm using the following command:
+
+```shell
+$ npm i @avto-dev/vehicle-logotypes
+```
+
 ## Changes log
 
 [![Release date][badge_release_date]][link_releases]
