@@ -5,6 +5,7 @@
 # Vehicle logotypes
 
 [![Packagist version][badge_packagist_version]][link_packagist]
+[![Build status][badge_build_status]][link_build_status]
 [![License][badge_license]][link_license]
 
 This repository contains [structured file](./src/vehicle-logotypes.json) (`json` format) with absolute links to the vehicle logotypes images. Time to time we will update it. Also you can install this repository as package into your application.
@@ -21,6 +22,9 @@ Demonstration is [available here][demo].
 
 ### Using `composer` (php)
 
+![PHP Version required][badge_php_version]
+![Tests coverage][badge_coverage]
+
 Require this package with composer using the following command:
 
 ```shell
@@ -28,6 +32,22 @@ $ composer require avto-dev/vehicle-logotypes
 ```
 
 > Installed `composer` is required ([how to install composer][getcomposer]).
+
+After that you can:
+
+```php
+<?php
+
+$logotypes = \AvtoDev\VehicleLogotypes\VehicleLogotypes::create();
+
+// Get 'Opel' logotype uri
+$opel_uri = $logotypes->get('opel')['logotype']['uri'];
+
+// Get all 'BMW' models data
+$bmw = $logotypes->filter(function ($item) {
+    return mb_strpos(mb_strtolower($item['name']), 'bmw') !== false;
+});
+```
 
 ### Using `npm` (node)
 
@@ -102,12 +122,16 @@ All images are the property of their respective owners. If you found any image c
 This package is open-sourced software licensed under the [MIT License][link_license].
 
 [badge_packagist_version]:https://img.shields.io/packagist/v/avto-dev/vehicle-logotypes.svg?style=for-the-badge&maxAge=60
+[badge_build_status]:https://img.shields.io/scrutinizer/build/g/avto-dev/vehicle-logotypes.svg?style=for-the-badge&maxAge=60&logo=scrutinizer
+[badge_php_version]:https://img.shields.io/packagist/php-v/avto-dev/vehicle-logotypes.svg?style=flat-square&longCache=true
+[badge_coverage]:https://img.shields.io/scrutinizer/coverage/g/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=180
 [badge_license]:https://img.shields.io/packagist/l/avto-dev/vehicle-logotypes.svg?style=for-the-badge&longCache=true
 [badge_release_date]:https://img.shields.io/github/release-date/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=60
 [badge_commits_since_release]:https://img.shields.io/github/commits-since/avto-dev/vehicle-logotypes/latest.svg?style=flat-square&maxAge=60
 [badge_issues]:https://img.shields.io/github/issues/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=60
 [badge_pulls]:https://img.shields.io/github/issues-pr/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=60
 [link_releases]:https://github.com/avto-dev/vehicle-logotypes/releases
+[link_build_status]:https://scrutinizer-ci.com/g/avto-dev/vehicle-logotypes/build-status/master
 [link_packagist]:https://packagist.org/packages/avto-dev/vehicle-logotypes
 [link_changes_log]:https://github.com/avto-dev/vehicle-logotypes/blob/master/CHANGELOG.md
 [link_issues]:https://github.com/avto-dev/vehicle-logotypes/issues

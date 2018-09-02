@@ -5,6 +5,7 @@
 ### Added
 
 - Images uses CDN proxy service imgix.com
+- PHP-sdk
 
 ## v1.0.0
 

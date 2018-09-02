@@ -15,7 +15,28 @@
         }
     ],
     "require": {
-        "php": "*"
+        "php": "^5.6 || >=7.0 <=7.3",
+        "ext-json": "*",
+        "illuminate/support": "^5.4 || ^5.5 || ^5.6 || ^5.7"
+    },
+    "require-dev": {
+        "ext-mbstring": "*",
+        "phpunit/phpunit": "~5.7.10 || ^6.4 || ~7.0",
+        "symfony/var-dumper": "~3.2 || ^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "AvtoDev\\VehicleLogotypes\\": "sdk/php/src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "AvtoDev\\VehicleLogotypes\\Tests\\": "sdk/php/tests"
+        }
+    },
+    "scripts": {
+        "test": "@php ./vendor/bin/phpunit --configuration ./sdk/php/phpunit.xml --no-coverage",
+        "test-cover": "@php ./vendor/bin/phpunit --configuration ./sdk/php/phpunit.xml  --coverage-html='./sdk/php/coverage/html'"
     },
     "config": {
         "sort-packages": true
