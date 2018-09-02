@@ -7,23 +7,15 @@
 [![Packagist version][badge_packagist_version]][link_packagist]
 [![License][badge_license]][link_license]
 
-This repository contains [structured file](./src/vehicle-logotypes.json) (`json` format) with absolute links to the vehicle logotypes images. Time to time we will update it. Also you can require this package as an dependency of your application.
+This repository contains [structured file](./src/vehicle-logotypes.json) (`json` format) with absolute links to the vehicle logotypes images. Time to time we will update it. Also you can install this repository as package into your application.
 
-All images were **compressed** using [tinypng.com][tinypng] service (this is the best images compressor).
+All images were **compressed** using [tinypng.com][tinypng] service (this is the best images compressor) and deliver via CDN network.
 
-Logotypes _(except alternative images)_ have fixed size - **240x180** pixels.
+Logotypes _(except alternative images)_ have fixed size - `240x180` pixels.
 
-Demonstration [available here][demo] (wrote using VueJs library).
+Demonstration is [available here][demo].
 
 [![Logos plate](https://hsto.org/webt/zc/em/4n/zcem4nygx8qmia8jauczu6hxbfk.jpeg)][demo]
-
-### Images sources
-
-All images were taken from open sources, like:
-
-- [carlogos.org](http://www.carlogos.org/)
-- [Google images](https://www.google.com/imghp?tbm=isch&tbs=imgo:1)
-- [wikipedia.org](https://en.wikipedia.org/)
 
 ## Installation
 
@@ -51,12 +43,43 @@ Get content using one of next URI:
 
 Service  | Version | URI
 -------- | ------- | ---
-RawGit   | `1.0.0` | `https://cdn.rawgit.com/avto-dev/vehicle-logotypes/604e892c/src/vehicle-logotypes.json`
-jsDelivr | `1.0.0` | `https://cdn.jsdelivr.net/gh/avto-dev/vehicle-logotypes@1.0.0/src/vehicle-logotypes.json`
+jsDelivr | `1.1.0` | `https://cdn.jsdelivr.net/gh/avto-dev/vehicle-logotypes@1.1.0/src/vehicle-logotypes.json`
 
 ### Download archive
 
 Download latest version (`master` branch): [ZIP][download_zip] | [TAR][download_tar]
+
+## Features
+
+Since version 1.1.0 you can use all imgix.com features like resize, cropping, and others.
+
+For example, basic image:
+
+![basic](https://vl.imgix.net/img/bmw-logo.png)
+
+> `https://vl.imgix.net/img/bmw-logo.png`
+
+With background color:
+
+![rotated](https://vl.imgix.net/img/bmw-logo.png?bg=354651)
+
+> `https://vl.imgix.net/img/bmw-logo.png?bg=354651`
+
+With custom text over image:
+
+![with text](https://vl.imgix.net/img/bmw-logo.png?txt=YOUR%20TEXT&txtsize=62&txtclr=ff0000&txtalign=middle,center&txtfont=Futura%20Condensed%20Medium)
+
+> `https://vl.imgix.net/img/bmw-logo.png?txt=YOUR%20TEXT&txtsize=62&txtclr=ff0000&txtalign=middle,center&txtfont=Futura%20Condensed%20Medium`
+
+Full documentation can be [found here][imgix_api].
+
+## Images sources
+
+All images were taken from open sources, like:
+
+- [carlogos.org](http://www.carlogos.org/)
+- [Google images](https://www.google.com/imghp?tbm=isch&tbs=imgo:1)
+- [wikipedia.org](https://en.wikipedia.org/)
 
 ## Changes log
 
@@ -97,3 +120,4 @@ This package is open-sourced software licensed under the [MIT License][link_lice
 [demo]:https://avto-dev.github.io/vehicle-logotypes/
 [download_zip]:https://github.com/avto-dev/vehicle-logotypes/archive/master.zip
 [download_tar]:https://github.com/avto-dev/vehicle-logotypes/archive/master.tar.gz
+[imgix_api]:https://docs.imgix.com/apis/url
