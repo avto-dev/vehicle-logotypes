@@ -11,6 +11,8 @@ This repository contains [structured file](./src/vehicle-logotypes.json) (`json`
 
 All images were **compressed** using [tinypng.com][tinypng] service (this is the best images compressor).
 
+Logotypes _(except alternative images)_ have fixed size - **240x180** pixels.
+
 Demonstration [available here][demo] (wrote using VueJs library).
 
 [![Logos plate](https://hsto.org/webt/zc/em/4n/zcem4nygx8qmia8jauczu6hxbfk.jpeg)][demo]
@@ -25,7 +27,7 @@ All images were taken from open sources, like:
 
 ## Installation
 
-### Using composer (PHP)
+### Using `composer` (php)
 
 Require this package with composer using the following command:
 
@@ -35,13 +37,26 @@ $ composer require avto-dev/vehicle-logotypes
 
 > Installed `composer` is required ([how to install composer][getcomposer]).
 
-### Using npm (node)
+### Using `npm` (node)
 
 Require this package with npm using the following command:
 
 ```shell
 $ npm i @avto-dev/vehicle-logotypes
 ```
+
+### Direct request (http)
+
+Get content using one of next URI:
+
+Service  | Version | URI
+-------- | ------- | ---
+RawGit   | `1.0.0` | `https://cdn.rawgit.com/avto-dev/vehicle-logotypes/604e892c/src/vehicle-logotypes.json`
+jsDelivr | `1.0.0` | `https://cdn.jsdelivr.net/gh/avto-dev/vehicle-logotypes@1.0.0/src/vehicle-logotypes.json`
+
+### Download archive
+
+Download latest version (`master` branch): [ZIP][download_zip] | [TAR][download_tar]
 
 ## Changes log
 
@@ -80,3 +95,5 @@ This package is open-sourced software licensed under the [MIT License][link_lice
 [getcomposer]:https://getcomposer.org/download/
 [tinypng]:https://tinypng.com/
 [demo]:https://avto-dev.github.io/vehicle-logotypes/
+[download_zip]:https://github.com/avto-dev/vehicle-logotypes/archive/master.zip
+[download_tar]:https://github.com/avto-dev/vehicle-logotypes/archive/master.tar.gz
