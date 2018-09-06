@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.2.1
+
+### Removed
+
+- Duplicate: `eagle` (already exists: `eagle-automobile`)
+
 ## v1.2.0
 
 ### Added

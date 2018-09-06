@@ -50,7 +50,7 @@ class VehicleLogotypesTest extends TestCase
                   'carlsson,caterham,chana,changan,changfeng,chaparral,chery,chevrolet,chrysler,cisitalia,citroen,' .
                   'cizeta,cole,corre-la-licorne,corvette,dacia,dadi,daewoo,daf,daihatsu,daimler,dartz,datsun,' .
                   'david-brown,de-tomaso,delage,derways,detroit-electric,devel-sixteen,diatto,dina,dkw,dmc,dodge,' .
-                  'dongfeng,doninvest,donkervoort,ds,eagle,eagle-automobile,eco-motors,edag,edsel,eicher,elemental,' .
+                  'dongfeng,doninvest,donkervoort,ds,eagle-automobile,eco-motors,edag,edsel,eicher,elemental,' .
                   'elfin,elva,englon,erf,eterniti,facel-vega,faraday-future,faw,ferrari,fiat,fioravanti,fisker,foden,' .
                   'force-motors,ford,foton,fpv,franklin,freightliner,fso,fuqi,gac,gardner-douglas,gaz,geely,' .
                   'general-motors,genesis,geo,gilbern,gillet,ginetta,gmc,gonow,gordon,great-wall,grinnall-cars,' .
