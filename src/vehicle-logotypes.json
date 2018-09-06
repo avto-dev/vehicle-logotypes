@@ -260,18 +260,6 @@
       }
     ]
   },
-  "amc": {
-    "name": "AMC",
-    "logotype": {
-      "uri": "https:\/\/vl.imgix.net\/img\/amc-logo.png",
-      "width": 240,
-      "height": 180,
-      "mime": "image\/png",
-      "transparent": true,
-      "size": 3503
-    },
-    "alternatives": []
-  },
   "american-motors": {
     "name": "American Motors",
     "logotype": {
@@ -4298,18 +4286,6 @@
       "mime": "image\/png",
       "transparent": true,
       "size": 4138
-    },
-    "alternatives": []
-  },
-  "lucid": {
-    "name": "Lucid",
-    "logotype": {
-      "uri": "https:\/\/vl.imgix.net\/img\/lucid-logo.png",
-      "width": 240,
-      "height": 180,
-      "mime": "image\/png",
-      "transparent": true,
-      "size": 1406
     },
     "alternatives": []
   },

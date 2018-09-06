@@ -63,7 +63,7 @@ Get content using one of next URI:
 
 Service  | Version | URI
 -------- | ------- | ---
-jsDelivr | `1.1.0` | `https://cdn.jsdelivr.net/gh/avto-dev/vehicle-logotypes@1.1.0/src/vehicle-logotypes.json`
+jsDelivr | `1.2.0` | `https://cdn.jsdelivr.net/gh/avto-dev/vehicle-logotypes@1.2.0/src/vehicle-logotypes.json`
 
 ### Download archive
 
