@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.2.0
+
+### Added
+
+- New logotypes
+
 ## v1.1.0
 
 ### Added
