@@ -4,8 +4,7 @@
 
 # Vehicle logotypes
 
-[![Packagist version][badge_packagist_version]][link_packagist]
-[![Build status][badge_build_status]][link_build_status]
+[![Build Status][badge_build_status]][link_build_status]
 [![License][badge_license]][link_license]
 
 This repository contains [structured file](./src/vehicle-logotypes.json) (`json` format) with absolute links to the vehicle logotypes images. Time to time we will update it. Also you can install this repository as package into your application.
@@ -22,8 +21,11 @@ Demonstration is [available here][demo].
 
 ### Using `composer` (php)
 
-![PHP Version required][badge_php_version]
-![Tests coverage][badge_coverage]
+[![Packagist version][badge_packagist_version]][link_packagist]
+[![PHP Version][badge_php_version]][link_packagist]
+[![Coverage][badge_coverage]][link_coverage]
+[![Code quality][badge_code_quality]][link_code_quality]
+[![Downloads count][badge_downloads_count]][link_packagist]
 
 Require this package with composer using the following command:
 
@@ -51,6 +53,10 @@ $bmw = $logotypes->filter(function ($item) {
 
 ### Using `npm` (node)
 
+[![NPM version][badge_npm_version]][link_npm]
+[![NODE version][badge_node_version]][link_npm]
+[![NPM downloads][badge_npm_downloads]][link_npm]
+
 Require this package with npm using the following command:
 
 ```shell
@@ -59,11 +65,14 @@ $ npm i @avto-dev/vehicle-logotypes
 
 ### Direct request (http)
 
+[![jsDelivr downloads][badge_jsdelivr]][link_jsdelivr_landing]
+
 Get content using one of next URI:
 
 Service  | Version | URI
 -------- | ------- | ---
 jsDelivr | `1.2.1` | `https://cdn.jsdelivr.net/gh/avto-dev/vehicle-logotypes@1.2.1/src/vehicle-logotypes.json`
+jsDelivr | `1.3.0` | `https://cdn.jsdelivr.net/gh/avto-dev/vehicle-logotypes@1.3.0/src/vehicle-logotypes.json`
 
 ### Download archive
 
@@ -121,24 +130,34 @@ All images are the property of their respective owners. If you found any image c
 
 This package is open-sourced software licensed under the [MIT License][link_license].
 
-[badge_packagist_version]:https://img.shields.io/packagist/v/avto-dev/vehicle-logotypes.svg?style=for-the-badge&maxAge=60
-[badge_build_status]:https://img.shields.io/scrutinizer/build/g/avto-dev/vehicle-logotypes.svg?style=for-the-badge&maxAge=60&logo=scrutinizer
-[badge_php_version]:https://img.shields.io/packagist/php-v/avto-dev/vehicle-logotypes.svg?style=flat-square&longCache=true
-[badge_coverage]:https://img.shields.io/scrutinizer/coverage/g/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=180
-[badge_license]:https://img.shields.io/packagist/l/avto-dev/vehicle-logotypes.svg?style=for-the-badge&longCache=true
-[badge_release_date]:https://img.shields.io/github/release-date/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=60
-[badge_commits_since_release]:https://img.shields.io/github/commits-since/avto-dev/vehicle-logotypes/latest.svg?style=flat-square&maxAge=60
-[badge_issues]:https://img.shields.io/github/issues/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=60
-[badge_pulls]:https://img.shields.io/github/issues-pr/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=60
+[badge_packagist_version]:https://img.shields.io/packagist/v/avto-dev/vehicle-logotypes.svg?maxAge=180
+[badge_php_version]:https://img.shields.io/packagist/php-v/avto-dev/vehicle-logotypes.svg?longCache=true
+[badge_build_status]:https://travis-ci.org/avto-dev/vehicle-logotypes.svg?branch=master
+[badge_code_quality]:https://img.shields.io/scrutinizer/g/avto-dev/vehicle-logotypes.svg?maxAge=180
+[badge_coverage]:https://img.shields.io/codecov/c/github/avto-dev/vehicle-logotypes/master.svg?maxAge=60
+[badge_downloads_count]:https://img.shields.io/packagist/dt/avto-dev/vehicle-logotypes.svg?maxAge=180
+[badge_license]:https://img.shields.io/packagist/l/avto-dev/vehicle-logotypes.svg?longCache=true
+[badge_release_date]:https://img.shields.io/github/release-date/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=180
+[badge_commits_since_release]:https://img.shields.io/github/commits-since/avto-dev/vehicle-logotypes/latest.svg?style=flat-square&maxAge=180
+[badge_issues]:https://img.shields.io/github/issues/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=180
+[badge_pulls]:https://img.shields.io/github/issues-pr/avto-dev/vehicle-logotypes.svg?style=flat-square&maxAge=180
+[badge_npm_version]:https://img.shields.io/npm/v/@avto-dev/vehicle-logotypes.svg
+[badge_node_version]:https://img.shields.io/node/v/@avto-dev/vehicle-logotypes.svg
+[badge_npm_downloads]:https://img.shields.io/npm/dt/@avto-dev/vehicle-logotypes.svg
+[badge_jsdelivr]:https://data.jsdelivr.com/v1/package/gh/avto-dev/vehicle-logotypes/badge?style=rounded
 [link_releases]:https://github.com/avto-dev/vehicle-logotypes/releases
-[link_build_status]:https://scrutinizer-ci.com/g/avto-dev/vehicle-logotypes/build-status/master
 [link_packagist]:https://packagist.org/packages/avto-dev/vehicle-logotypes
+[link_build_status]:https://travis-ci.org/avto-dev/vehicle-logotypes
+[link_coverage]:https://codecov.io/gh/avto-dev/vehicle-logotypes/
 [link_changes_log]:https://github.com/avto-dev/vehicle-logotypes/blob/master/CHANGELOG.md
+[link_code_quality]:https://scrutinizer-ci.com/g/avto-dev/vehicle-logotypes/
 [link_issues]:https://github.com/avto-dev/vehicle-logotypes/issues
 [link_create_issue]:https://github.com/avto-dev/vehicle-logotypes/issues/new/choose
 [link_commits]:https://github.com/avto-dev/vehicle-logotypes/commits
 [link_pulls]:https://github.com/avto-dev/vehicle-logotypes/pulls
 [link_license]:https://github.com/avto-dev/vehicle-logotypes/blob/master/LICENSE
+[link_npm]:https://www.npmjs.com/package/@avto-dev/vehicle-logotypes
+[link_jsdelivr_landing]:https://www.jsdelivr.com/package/gh/avto-dev/vehicle-logotypes
 [getcomposer]:https://getcomposer.org/download/
 [tinypng]:https://tinypng.com/
 [demo]:https://avto-dev.github.io/vehicle-logotypes/
