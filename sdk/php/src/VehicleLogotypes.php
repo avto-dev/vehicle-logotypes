@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types = 1);
+
 namespace AvtoDev\VehicleLogotypes;
 
 use Tarampampam\Wrappers\Json;

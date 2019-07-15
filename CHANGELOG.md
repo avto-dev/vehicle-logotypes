@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## v2.0.0
+
+### Added
+
+- Docker-based environment for development
+- Project `Makefile`
+
+### Changed
+
+- Minimal `PHP` version now is `^7.1.3`
+- Maximal `Laravel` version now is `5.8.x`
+
 ## v1.3.0
 
 ### Changed

@@ -15,15 +15,15 @@
         }
     ],
     "require": {
-        "php": "^5.6 || >=7.0",
+        "php": "^7.1.3",
         "ext-json": "*",
-        "illuminate/support": ">=5.4.0 <5.8.0",
+        "illuminate/support": ">=5.4.0 <5.9.0",
         "tarampampam/wrappers-php": "^1.3"
     },
     "require-dev": {
         "ext-mbstring": "*",
-        "phpunit/phpunit": "~5.7.10 || ^6.4 || ~7.0",
-        "symfony/var-dumper": "~3.2 || ^4.0"
+        "phpstan/phpstan": "^0.11.3",
+        "phpunit/phpunit": "^6.4 || ~7.5"
     },
     "autoload": {
         "psr-4": {
@@ -36,8 +36,17 @@
         }
     },
     "scripts": {
-        "test": "@php ./vendor/bin/phpunit --configuration ./sdk/php/phpunit.xml --no-coverage",
-        "test-cover": "@php ./vendor/bin/phpunit --configuration ./sdk/php/phpunit.xml  --coverage-html='./sdk/php/coverage/html'"
+        "phpunit": "@php ./vendor/bin/phpunit --configuration ./sdk/php/phpunit.xml.dist --no-coverage --colors=always",
+        "phpunit-cover": "@php ./vendor/bin/phpunit --configuration ./sdk/php/phpunit.xml.dist --coverage-html='./sdk/php/coverage/html'",
+        "phpstan": "@php ./vendor/bin/phpstan analyze -c ./sdk/php/phpstan.neon.dist --no-progress --ansi",
+        "test": [
+            "@phpstan",
+            "@phpunit"
+        ],
+        "test-cover": [
+            "@phpstan",
+            "@phpunit-cover"
+        ]
     },
     "config": {
         "sort-packages": true

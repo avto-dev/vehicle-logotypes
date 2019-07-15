@@ -24,7 +24,6 @@ Demonstration is [available here][demo].
 [![Packagist version][badge_packagist_version]][link_packagist]
 [![PHP Version][badge_php_version]][link_packagist]
 [![Coverage][badge_coverage]][link_coverage]
-[![Code quality][badge_code_quality]][link_code_quality]
 [![Downloads count][badge_downloads_count]][link_packagist]
 
 Require this package with composer using the following command:
@@ -133,7 +132,6 @@ This package is open-sourced software licensed under the [MIT License][link_lice
 [badge_packagist_version]:https://img.shields.io/packagist/v/avto-dev/vehicle-logotypes.svg?maxAge=180
 [badge_php_version]:https://img.shields.io/packagist/php-v/avto-dev/vehicle-logotypes.svg?longCache=true
 [badge_build_status]:https://travis-ci.org/avto-dev/vehicle-logotypes.svg?branch=master
-[badge_code_quality]:https://img.shields.io/scrutinizer/g/avto-dev/vehicle-logotypes.svg?maxAge=180
 [badge_coverage]:https://img.shields.io/codecov/c/github/avto-dev/vehicle-logotypes/master.svg?maxAge=60
 [badge_downloads_count]:https://img.shields.io/packagist/dt/avto-dev/vehicle-logotypes.svg?maxAge=180
 [badge_license]:https://img.shields.io/packagist/l/avto-dev/vehicle-logotypes.svg?longCache=true
@@ -150,7 +148,6 @@ This package is open-sourced software licensed under the [MIT License][link_lice
 [link_build_status]:https://travis-ci.org/avto-dev/vehicle-logotypes
 [link_coverage]:https://codecov.io/gh/avto-dev/vehicle-logotypes/
 [link_changes_log]:https://github.com/avto-dev/vehicle-logotypes/blob/master/CHANGELOG.md
-[link_code_quality]:https://scrutinizer-ci.com/g/avto-dev/vehicle-logotypes/
 [link_issues]:https://github.com/avto-dev/vehicle-logotypes/issues
 [link_create_issue]:https://github.com/avto-dev/vehicle-logotypes/issues/new/choose
 [link_commits]:https://github.com/avto-dev/vehicle-logotypes/commits

@@ -1,11 +1,14 @@
 {
     "name": "@avto-dev/vehicle-logotypes",
-    "version": "1.3.0",
+    "version": "2.0.0",
     "description": "Vehicle logotypes set",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "release": "npm publish --scope=avto-dev --access=public"
     },
+    "files": [
+        "src"
+    ],
     "repository": {
         "type": "git",
         "url": "git+https://github.com/avto-dev/vehicle-logotypes.git"

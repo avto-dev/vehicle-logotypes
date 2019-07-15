@@ -1,9 +1,14 @@
 <?php
 
+declare(strict_types = 1);
+
 use PHPUnit\Framework\TestCase;
 use Illuminate\Support\Collection;
 use AvtoDev\VehicleLogotypes\VehicleLogotypes;
 
+/**
+ * @covers \AvtoDev\VehicleLogotypes\VehicleLogotypes<extended>
+ */
 class VehicleLogotypesTest extends TestCase
 {
     /**
@@ -14,7 +19,7 @@ class VehicleLogotypesTest extends TestCase
     /**
      * {@inheritdoc}
      */
-    protected function setUp()
+    protected function setUp(): void
     {
         parent::setUp();
 
@@ -26,7 +31,7 @@ class VehicleLogotypesTest extends TestCase
      *
      * @return void
      */
-    public function testConstructor()
+    public function testConstructor(): void
     {
         $instance = VehicleLogotypes::create();
 
@@ -39,7 +44,7 @@ class VehicleLogotypesTest extends TestCase
      *
      * @return void
      */
-    public function testExistingItems()
+    public function testExistingItems(): void
     {
         $exists = '9ff,abadal,abarth,abbott-detroit,abt-sportsline,ac,acura,adler,aixam,alfa-romeo,allard,alpina,' .
                   'alpine,alta,alvis,american-motors,amg,arash,ariel,aro,arrinera,artega,ascari,asia,askam,' .
@@ -78,7 +83,7 @@ class VehicleLogotypesTest extends TestCase
                   'westfield,wiesmann,willys-knight,willys-overland,wuling,xin-kai,yamal,yo-mobile,yulon,yutong,' .
                   'zarooq-motors,zastava,zaz,zenos-cars,zenvo,zibar,zil,zis,zotye,zx-auto';
 
-        foreach (explode(',', $exists) as $key) {
+        foreach (\explode(',', $exists) as $key) {
             $this->assertArrayHasKey($key, $this->instance->all());
             $this->assertTrue($this->instance->offsetExists($key));
         }
@@ -89,7 +94,7 @@ class VehicleLogotypesTest extends TestCase
      *
      * @return void
      */
-    public function testStructure()
+    public function testStructure(): void
     {
         foreach ($this->instance as $key => $item) {
             $this->assertInternalType('string', $key);
@@ -116,12 +121,12 @@ class VehicleLogotypesTest extends TestCase
      *
      * @return void
      */
-    public function testSimpleUsage()
+    public function testSimpleUsage(): void
     {
         $this->assertEquals('Opel', $this->instance->get('opel')['name']);
 
         $this->assertGreaterThanOrEqual(2, $this->instance->filter(function ($item) {
-            return mb_strpos(mb_strtolower($item['name']), 'bmw') !== false;
+            return \mb_strpos(\mb_strtolower($item['name']), 'bmw') !== false;
         })->count());
     }
 
@@ -130,7 +135,7 @@ class VehicleLogotypesTest extends TestCase
      *
      * @param array $data
      */
-    protected function assertImageStructure($data)
+    protected function assertImageStructure($data): void
     {
         foreach (['uri', 'width', 'height', 'mime', 'transparent', 'size'] as $expected_key) {
             $this->assertArrayHasKey($expected_key, $data);
@@ -156,9 +161,9 @@ class VehicleLogotypesTest extends TestCase
      *
      * @param string $uri
      */
-    protected function assertIsValidUri($uri)
+    protected function assertIsValidUri($uri): void
     {
-        $this->assertNotFalse(filter_var($uri, FILTER_VALIDATE_URL));
+        $this->assertNotFalse(\filter_var($uri, \FILTER_VALIDATE_URL));
         $this->assertRegExp('~https?:\/\/[a-zA-Z0-9\-\.]+\/.+~', $uri);
     }
 }
