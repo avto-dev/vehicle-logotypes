@@ -56,6 +56,8 @@ matrix:
 
     - php: nightly
 
+  allow_failures:
+    - php: nightly
 
 deploy:
   - provider: npm # <https://docs.travis-ci.com/user/deployment/npm/>
