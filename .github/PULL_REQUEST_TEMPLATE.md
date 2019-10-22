@@ -14,7 +14,7 @@ Fixes # (issue)
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I wrote unit tests for my code
+- [ ] I wrote unit tests for my code _(if tests is required for my changes)_
 - [ ] I have made changes in [CHANGELOG.md](https://github.com/avto-dev/vehicle-logotypes/blob/master/CHANGELOG.md) file
 
 > About your changes in `CHANGELOG.md`:

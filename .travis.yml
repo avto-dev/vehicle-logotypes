@@ -8,6 +8,7 @@ env:
   global:
     - setup=basic
     - coverage=false
+    - illuminate=default
 
 sudo: false
 
@@ -20,9 +21,11 @@ before_install:
   - if [[ $coverage = 'false' ]]; then phpenv config-rm xdebug.ini || true; fi
 
 install:
-  - if [[ $setup = 'basic'  ]]; then travis_retry composer update --prefer-dist --no-interaction --no-suggest; fi
+  - if [[ $setup = 'basic'  ]] && [[ $illuminate = 'default'  ]]; then travis_retry composer update --prefer-dist --no-interaction --no-suggest; fi
   - if [[ $setup = 'stable' ]]; then travis_retry composer update --prefer-dist --no-interaction --no-suggest --prefer-stable; fi
   - if [[ $setup = 'lowest' ]]; then travis_retry composer update --prefer-dist --no-interaction --no-suggest --prefer-lowest; fi
+  - if [[ $illuminate != 'default' ]]; then travis_retry composer require --dev --update-with-dependencies --prefer-dist --no-interaction --no-suggest illuminate/support "$illuminate"; fi
+  - composer info | grep -e illuminate/support -e phpunit/phpunit -e phpstan/phpstan
 
 script:
   - if [[ $coverage = 'true' ]]; then composer test-cover; else composer test; fi
@@ -42,10 +45,14 @@ matrix:
       env: setup=lowest
     - php: 7.2
       env: setup=stable
+    - php: 7.2
+      env: illuminate=6.*
 
     - php: 7.3
     - php: 7.3
       env: setup=lowest
+    - php: 7.3
+      env: illuminate=6.*
 
     - php: nightly
 
