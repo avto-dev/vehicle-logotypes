@@ -8,6 +8,7 @@ env:
   global:
     - setup=basic
     - coverage=false
+    - laravel=default
 
 sudo: false
 
