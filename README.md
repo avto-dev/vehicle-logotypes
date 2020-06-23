@@ -29,10 +29,12 @@ Demonstration is [available here][demo].
 Require this package with composer using the following command:
 
 ```shell
-$ composer require avto-dev/vehicle-logotypes
+$ composer require avto-dev/vehicle-logotypes "^2.0"
 ```
 
 > Installed `composer` is required ([how to install composer][getcomposer]).
+
+> You need to fix the major version of package.
 
 After that you can:
 
@@ -45,8 +47,8 @@ $logotypes = \AvtoDev\VehicleLogotypes\VehicleLogotypes::create();
 $opel_uri = $logotypes->get('opel')['logotype']['uri'];
 
 // Get all 'BMW' models data
-$bmw = $logotypes->filter(function ($item) {
-    return mb_strpos(mb_strtolower($item['name']), 'bmw') !== false;
+$bmw = $logotypes->filter(static function ($item) {
+    return mb_stripos($item['name'], 'bmw') !== false;
 });
 ```
 
@@ -70,8 +72,8 @@ Get content using one of next URI:
 
 Service  | Version | URI
 -------- | ------- | ---
-jsDelivr | `1.2.1` | `https://cdn.jsdelivr.net/gh/avto-dev/vehicle-logotypes@1.2.1/src/vehicle-logotypes.json`
-jsDelivr | `1.3.0` | `https://cdn.jsdelivr.net/gh/avto-dev/vehicle-logotypes@1.3.0/src/vehicle-logotypes.json`
+jsDelivr | `2.x` | `https://cdn.jsdelivr.net/gh/avto-dev/vehicle-logotypes@2.x/src/vehicle-logotypes.json`
+jsDelivr | `1.x` | `https://cdn.jsdelivr.net/gh/avto-dev/vehicle-logotypes@1.x/src/vehicle-logotypes.json`
 
 ### Download archive
 
@@ -79,7 +81,7 @@ Download latest version (`master` branch): [ZIP][download_zip] | [TAR][download_
 
 ## Features
 
-Since version 1.1.0 you can use all imgix.com features like resize, cropping, and others.
+Since version 1.1.0 you can use all [imgix.com](https://docs.imgix.com/apis/url) features like resize, cropping, and others.
 
 For example, basic image:
 
