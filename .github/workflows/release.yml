@@ -16,9 +16,11 @@ jobs:
         uses: actions/setup-node@v1 # Action page: <https://github.com/actions/setup-node>
         with:
           node-version: '12'
+          registry-url: 'https://registry.npmjs.org'
+          scope: '@avto-dev'
 
       - name: Generate version value
-        run: echo "::set-env name=PACKAGE_VERSION::${GITHUB_REF##*/}"
+        run: echo "::set-env name=PACKAGE_VERSION::${GITHUB_REF##*/v}"
 
       - name: Install dependencies
         run: yarn install
@@ -29,4 +31,4 @@ jobs:
       - name: Publish package
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: yarn publish --access public --registry 'https://registry.npmjs.org' --non-interactive
+        run: yarn publish --access public --non-interactive
