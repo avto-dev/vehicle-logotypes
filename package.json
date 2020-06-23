@@ -1,6 +1,6 @@
 {
     "name": "@avto-dev/vehicle-logotypes",
-    "version": "2.0.0",
+    "version": "0.0.0-THIS-VALUE-WILL-BE-SET-DURING-BUILD",
     "description": "Vehicle logotypes set",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
