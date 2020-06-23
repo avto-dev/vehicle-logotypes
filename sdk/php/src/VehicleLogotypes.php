@@ -6,17 +6,17 @@ namespace AvtoDev\VehicleLogotypes;
 
 use Tarampampam\Wrappers\Json;
 
-class VehicleLogotypes extends \Illuminate\Support\Collection
+final class VehicleLogotypes extends \Illuminate\Support\Collection
 {
     /**
      * Create new instance with data.
      *
-     * @return self
+     * @return VehicleLogotypes<string, array<string, mixed>>
      */
-    public static function create()
+    public static function create(): self
     {
         return new static(
-            Json::decode(\file_get_contents(__DIR__ . '/../../../src/vehicle-logotypes.json'), true)
+            Json::decode((string) \file_get_contents(__DIR__ . '/../../../src/vehicle-logotypes.json'), true)
         );
     }
 }
