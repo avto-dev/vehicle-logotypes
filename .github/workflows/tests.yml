@@ -19,15 +19,7 @@ jobs: # Docs: <https://git.io/JvxXE>
       fail-fast: false
       matrix:
         setup: [basic, lowest]
-        coverage: [yes]
         php: ['7.2', '7.3', '7.4']
-        include:
-          - php: '7.2'
-            setup: lowest
-            coverage: no
-          - php: '7.3'
-            setup: lowest
-            coverage: no
     steps:
       - name: Check out code
         uses: actions/checkout@v2
@@ -63,16 +55,10 @@ jobs: # Docs: <https://git.io/JvxXE>
       - name: Show most important packages versions
         run: composer info | grep -e illuminate -e phpunit -e phpstan
 
-      - name: Execute tests
-        if: matrix.coverage != 'yes'
-        run: composer test
-
       - name: Execute tests with code coverage
-        if: matrix.coverage == 'yes'
         run: composer test-cover
 
       - uses: codecov/codecov-action@v1 # Docs: <https://github.com/codecov/codecov-action>
-        if: matrix.coverage == 'yes'
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
           file: ./sdk/php/coverage/clover.xml
