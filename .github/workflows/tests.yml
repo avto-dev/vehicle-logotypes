@@ -81,6 +81,8 @@ jobs: # Docs: <https://git.io/JvxXE>
         run: yarn install
 
       # @todo: write tests
+      #- name: Execute tests
+      #  run: yarn test
 
   lint-changelog:
     name: Lint changelog file
