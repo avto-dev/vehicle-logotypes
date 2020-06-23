@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog][keepachangelog] and this project adher
 - Maximal `illuminate/*` packages version now is `7.*`
 - Minimal `PHP` version now is `^7.2`
 - Class `AvtoDev\VehicleLogotypes\VehicleLogotypes` finalized
+- CI completely moved from "Travis CI" to "Github Actions" _(travis builds disabled)_
 
 ### Added
 
