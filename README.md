@@ -147,7 +147,7 @@ This package is open-sourced software licensed under the [MIT License][link_lice
 [badge_jsdelivr]:https://data.jsdelivr.com/v1/package/gh/avto-dev/vehicle-logotypes/badge?style=rounded
 [link_releases]:https://github.com/avto-dev/vehicle-logotypes/releases
 [link_packagist]:https://packagist.org/packages/avto-dev/vehicle-logotypes
-[link_build_status]:https://travis-ci.org/avto-dev/vehicle-logotypes
+[link_build_status]:https://github.com/avto-dev/vehicle-logotypes/actions
 [link_coverage]:https://codecov.io/gh/avto-dev/vehicle-logotypes/
 [link_changes_log]:https://github.com/avto-dev/vehicle-logotypes/blob/master/CHANGELOG.md
 [link_issues]:https://github.com/avto-dev/vehicle-logotypes/issues
