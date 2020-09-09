@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## v2.3.0
+
+### Changed
+
+- Laravel `8.x` is supported
+- Minimal Laravel version now is `6.0` (Laravel `5.5` LTS got last security update August 30th, 2020)
+- Dependency `tarampampam/wrappers-php` version `~2.0` is supported
+
 ## v2.2.0
 
 ### Changed

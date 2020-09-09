@@ -29,7 +29,7 @@ Demonstration is [available here][demo].
 Require this package with composer using the following command:
 
 ```shell
-$ composer require avto-dev/vehicle-logotypes "^2.0"
+$ composer require avto-dev/vehicle-logotypes "^2.3"
 ```
 
 > Installed `composer` is required ([how to install composer][getcomposer]).
@@ -133,7 +133,7 @@ This package is open-sourced software licensed under the [MIT License][link_lice
 
 [badge_packagist_version]:https://img.shields.io/packagist/v/avto-dev/vehicle-logotypes.svg?maxAge=180
 [badge_php_version]:https://img.shields.io/packagist/php-v/avto-dev/vehicle-logotypes.svg?longCache=true
-[badge_build_status]:https://travis-ci.org/avto-dev/vehicle-logotypes.svg?branch=master
+[badge_build_status]:https://img.shields.io/github/workflow/status/avto-dev/vehicle-logotypes/tests?maxAge=30
 [badge_coverage]:https://img.shields.io/codecov/c/github/avto-dev/vehicle-logotypes/master.svg?maxAge=60
 [badge_downloads_count]:https://img.shields.io/packagist/dt/avto-dev/vehicle-logotypes.svg?maxAge=180
 [badge_license]:https://img.shields.io/packagist/l/avto-dev/vehicle-logotypes.svg?longCache=true
