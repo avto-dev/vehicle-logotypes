@@ -4,11 +4,14 @@ composer.lock
 # IDEs
 /nbproject
 /.idea
+/.vscode
 
 # Vendors
 /vendor
 
-# etc.
+# Temp dirs & trash
 /temp
 /tmp
-/build
+/coverage
+.DS_Store
+*.cache

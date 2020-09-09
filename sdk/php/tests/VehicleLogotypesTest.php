@@ -97,11 +97,11 @@ class VehicleLogotypesTest extends TestCase
     public function testStructure(): void
     {
         foreach ($this->instance as $key => $item) {
-            $this->assertInternalType('string', $key);
+            $this->assertIsString($key);
             $this->assertNotEmpty($key);
             $this->assertRegExp('~[a-z0-9\-]+~', $key);
 
-            $this->assertInternalType('string', $item['name']);
+            $this->assertIsString($item['name']);
             $this->assertNotEmpty($item['name']);
             $this->assertRegExp('~[a-zA-Z0-9\-\ ]+~', $item['name']);
 
@@ -142,16 +142,16 @@ class VehicleLogotypesTest extends TestCase
         }
 
         foreach (['uri', 'mime'] as $should_be_string) {
-            $this->assertInternalType('string', $data[$should_be_string]);
+            $this->assertIsString($data[$should_be_string]);
             $this->assertNotEmpty($data[$should_be_string]);
         }
 
         foreach (['width', 'height', 'size'] as $should_be_integer) {
-            $this->assertInternalType('integer', $data[$should_be_integer]);
+            $this->assertIsInt($data[$should_be_integer]);
             $this->assertGreaterThanOrEqual(1, $data[$should_be_integer]);
         }
 
-        $this->assertInternalType('boolean', $data['transparent']);
+        $this->assertIsBool($data['transparent']);
 
         $this->assertIsValidUri($data['uri']);
     }
