@@ -13,13 +13,13 @@ on:
 jobs: # Docs: <https://git.io/JvxXE>
   php:
     name: PHP ${{ matrix.php }}, ${{ matrix.setup }} setup
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     timeout-minutes: 10
     strategy:
       fail-fast: false
       matrix:
         setup: [basic, lowest]
-        php: ['7.2', '7.3', '7.4']
+        php: ['7.2', '7.3', '7.4', '8.0']
     steps:
       - name: Check out code
         uses: actions/checkout@v2
@@ -29,7 +29,6 @@ jobs: # Docs: <https://git.io/JvxXE>
         with:
           php-version: ${{ matrix.php }}
           extensions: mbstring
-          tools: composer:v1 # TODO update composer up to v2
 
       - name: Get Composer Cache Directory # Docs: <https://git.io/JfAKn#php---composer>
         id: composer-cache
@@ -41,9 +40,6 @@ jobs: # Docs: <https://git.io/JvxXE>
           path: ${{ steps.composer-cache.outputs.dir }}
           key: ${{ runner.os }}-composer-${{ matrix.setup }}-${{ hashFiles('**/composer.json') }}
           restore-keys: ${{ runner.os }}-composer-
-
-      - name: Install Composer 'hirak/prestissimo' package
-        run: composer global require hirak/prestissimo --update-no-dev --no-progress --ansi
 
       - name: Install lowest Composer dependencies
         if: matrix.setup == 'lowest'
@@ -57,6 +53,8 @@ jobs: # Docs: <https://git.io/JvxXE>
         run: composer info | grep -e illuminate -e phpunit -e phpstan
 
       - name: Execute tests with code coverage
+        env:
+          XDEBUG_MODE: coverage
         run: composer test-cover
 
       - uses: codecov/codecov-action@v1 # Docs: <https://github.com/codecov/codecov-action>
@@ -87,7 +85,7 @@ jobs: # Docs: <https://git.io/JvxXE>
 
   lint-changelog:
     name: Lint changelog file
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - name: Check out code
         uses: actions/checkout@v2
