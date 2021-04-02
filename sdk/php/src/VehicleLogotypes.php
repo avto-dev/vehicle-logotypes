@@ -4,8 +4,6 @@ declare(strict_types = 1);
 
 namespace AvtoDev\VehicleLogotypes;
 
-use Tarampampam\Wrappers\Json;
-
 final class VehicleLogotypes extends \Illuminate\Support\Collection
 {
     /**
@@ -16,7 +14,7 @@ final class VehicleLogotypes extends \Illuminate\Support\Collection
     public static function create(): self
     {
         return new self(
-            Json::decode((string) \file_get_contents(__DIR__ . '/../../../src/vehicle-logotypes.json'), true)
+            \json_decode((string) \file_get_contents(__DIR__ . '/../../../src/vehicle-logotypes.json'), true)
         );
     }
 }
