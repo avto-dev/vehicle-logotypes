@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## v2.5.0
+
 ### Removed
 
 - Dependency `tarampampam/wrappers-php` because this package was deprecated and removed
