@@ -99,11 +99,11 @@ class VehicleLogotypesTest extends TestCase
         foreach ($this->instance as $key => $item) {
             $this->assertIsString($key);
             $this->assertNotEmpty($key);
-            $this->assertRegExp('~[a-z0-9\-]+~', $key);
+            $this->assertMatchesRegularExpression('~[a-z0-9\-]+~', $key);
 
             $this->assertIsString($item['name']);
             $this->assertNotEmpty($item['name']);
-            $this->assertRegExp('~[a-zA-Z0-9\-\ ]+~', $item['name']);
+            $this->assertMatchesRegularExpression('~[a-zA-Z0-9\-\ ]+~', $item['name']);
 
             foreach (['name', 'logotype', 'alternatives'] as $expected_key) {
                 $this->assertArrayHasKey($expected_key, $item);
@@ -164,6 +164,6 @@ class VehicleLogotypesTest extends TestCase
     protected function assertIsValidUri($uri): void
     {
         $this->assertNotFalse(\filter_var($uri, \FILTER_VALIDATE_URL));
-        $this->assertRegExp('~https?:\/\/[a-zA-Z0-9\-\.]+\/.+~', $uri);
+        $this->assertMatchesRegularExpression('~https?:\/\/[a-zA-Z0-9\-\.]+\/.+~', $uri);
     }
 }
