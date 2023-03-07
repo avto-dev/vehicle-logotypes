@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## Unreleased
+
+### Added
+
+- New logotypes: `aito, arcfox, ciimo, exeed, hiphi, hongqi, jetour, lixiang, lynk&co, nio, omoda, oshan, rivian, tank, trumpchi, voyah, xpeng, zeekr`
+
 ## v2.6.0
 
 ### Added

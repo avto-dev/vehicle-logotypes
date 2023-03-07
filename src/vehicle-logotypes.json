@@ -140,6 +140,27 @@
     },
     "alternatives": []
   },
+  "aito": {
+    "name": "Aito",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/aito-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 1083
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/aito-640x72.png",
+        "width": 640,
+        "height": 72,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 2538
+      }
+    ]
+  },
   "aixam": {
     "name": "Aixam",
     "logotype": {
@@ -320,6 +341,27 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 20891
+      }
+    ]
+  },
+  "arcfox": {
+    "name": "Arcfox",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/arcfox-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 20535
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/arcfox-367x311.png",
+        "width": 367,
+        "height": 311,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 46752
       }
     ]
   },
@@ -1391,6 +1433,18 @@
       }
     ]
   },
+  "ciimo": {
+    "name": "Ciimo",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/ciimo-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 15933
+    },
+    "alternatives": []
+  },
   "cisitalia": {
     "name": "Cisitalia",
     "logotype": {
@@ -2156,6 +2210,27 @@
         "mime": "image\/jpeg",
         "transparent": false,
         "size": 15016
+      }
+    ]
+  },
+  "exeed": {
+    "name": "EXEED",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/exeed-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 8306
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/exeed-550x199.png",
+        "width": 550,
+        "height": 199,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 17510
       }
     ]
   },
@@ -2981,6 +3056,27 @@
       }
     ]
   },
+  "hiphi": {
+    "name": "HiPhi",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/hiphi-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 2450
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/hiphi-640x453.png",
+        "width": 640,
+        "height": 453,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 6115
+      }
+    ]
+  },
   "hispano-suiza": {
     "name": "Hispano Suiza",
     "logotype": {
@@ -3062,6 +3158,27 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 146423
+      }
+    ]
+  },
+  "hongqi": {
+    "name": "Hongqi",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/hongqi-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 27368
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/hongqi-640x480.png",
+        "width": 640,
+        "height": 480,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 152227
       }
     ]
   },
@@ -3623,6 +3740,27 @@
       }
     ]
   },
+  "jetour": {
+    "name": "Jetour",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/jetour-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 1617
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/jetour-800x600.png",
+        "width": 800,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 18761
+      }
+    ]
+  },
   "jiangling": {
     "name": "Jiangling",
     "logotype": {
@@ -4169,6 +4307,27 @@
       }
     ]
   },
+  "lixiang": {
+    "name": "LiXiang",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/lixiang-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 4024
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/lixiang-640x480.png",
+        "width": 640,
+        "height": 480,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 10963
+      }
+    ]
+  },
   "lloyd": {
     "name": "Lloyd",
     "logotype": {
@@ -4316,6 +4475,27 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 274322
+      }
+    ]
+  },
+  "lynk-and-co": {
+    "name": "Lynk & Co",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/lynk-and-co-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 3313
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/lynk-and-co-640x427.png",
+        "width": 640,
+        "height": 427,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 9108
       }
     ]
   },
@@ -5024,6 +5204,27 @@
     },
     "alternatives": []
   },
+  "nio": {
+    "name": "Nio",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/nio-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 3361
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/nio-271x480.png",
+        "width": 271,
+        "height": 480,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 4986
+      }
+    ]
+  },
   "nismo": {
     "name": "Nismo",
     "logotype": {
@@ -5141,6 +5342,27 @@
       }
     ]
   },
+  "omoda": {
+    "name": "OMODA",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/omoda-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 2701
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/omoda-480x133.png",
+        "width": 271,
+        "height": 480,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 4633
+      }
+    ]
+  },
   "opel": {
     "name": "Opel",
     "logotype": {
@@ -5173,6 +5395,27 @@
       "size": 18822
     },
     "alternatives": []
+  },
+  "oshan": {
+    "name": "oshan",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/oshan-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 7695
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/oshan-384x274.png",
+        "width": 384,
+        "height": 274,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 14757
+      }
+    ]
   },
   "paccar": {
     "name": "Paccar",
@@ -5837,6 +6080,27 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 41595
+      }
+    ]
+  },
+  "rivian": {
+    "name": "Rivian",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/rivian-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 4719
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/rivian-640x373.png",
+        "width": 640,
+        "height": 373,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 10266
       }
     ]
   },
@@ -6620,6 +6884,18 @@
       }
     ]
   },
+  "tank": {
+    "name": "Tank",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/tank-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 18891
+    },
+    "alternatives": []
+  },
   "tata": {
     "name": "Tata",
     "logotype": {
@@ -6920,6 +7196,27 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 46474
+      }
+    ]
+  },
+  "trumpchi": {
+    "name": "Trumpchi",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/trumpchi-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 16886
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/trumpchi-866x866.png",
+        "width": 866,
+        "height": 866,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 123664
       }
     ]
   },
@@ -7232,6 +7529,27 @@
     },
     "alternatives": []
   },
+  "voyah": {
+    "name": "Voyah",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/voyah-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 15654
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/voyah-1262x431.png",
+        "width": 1262,
+        "height": 431,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 48805
+      }
+    ]
+  },
   "w-motors": {
     "name": "W Motors",
     "logotype": {
@@ -7424,6 +7742,27 @@
     },
     "alternatives": []
   },
+  "xpeng": {
+    "name": "Xpeng",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/xpeng-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 3677
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/xpeng-640x427.png",
+        "width": 640,
+        "height": 427,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 9587
+      }
+    ]
+  },
   "yamal": {
     "name": "YAMAL",
     "logotype": {
@@ -7543,6 +7882,18 @@
         "size": 31970
       }
     ]
+  },
+  "zeekr": {
+    "name": "Zeekr",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/zeekr-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 1251
+    },
+    "alternatives": []
   },
   "zenos-cars": {
     "name": "Zenos Cars",
