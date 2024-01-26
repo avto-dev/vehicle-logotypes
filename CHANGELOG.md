@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## Unreleased
+
+### Added
+
+– Field `code` with the vehicle name in upper case in the `vehicle-logotypes.json`
+
 ## v2.7.0
 
 ### Added

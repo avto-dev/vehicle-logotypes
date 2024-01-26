@@ -1,6 +1,7 @@
 {
   "9ff": {
     "name": "9ff",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/9ff-logo.png",
       "width": 240,
@@ -22,6 +23,7 @@
   },
   "abadal": {
     "name": "Abadal",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/abadal-logo.png",
       "width": 240,
@@ -43,6 +45,7 @@
   },
   "abarth": {
     "name": "Abarth",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/abarth-logo.png",
       "width": 240,
@@ -64,6 +67,7 @@
   },
   "abbott-detroit": {
     "name": "Abbott Detroit",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/abbott-detroit-logo.png",
       "width": 240,
@@ -76,6 +80,7 @@
   },
   "abt-sportsline": {
     "name": "ABT Sportsline",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/abt-sportsline-logo.png",
       "width": 240,
@@ -88,6 +93,7 @@
   },
   "ac": {
     "name": "AC",
+    "code": "AC",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ac-logo.png",
       "width": 240,
@@ -109,6 +115,7 @@
   },
   "acura": {
     "name": "Acura",
+    "code": "ACURA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/acura-logo.png",
       "width": 240,
@@ -130,6 +137,7 @@
   },
   "adler": {
     "name": "Adler",
+    "code": "ADLER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/adler-logo.png",
       "width": 240,
@@ -142,6 +150,7 @@
   },
   "aito": {
     "name": "Aito",
+    "code": "AITO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/aito-logo.png",
       "width": 240,
@@ -163,6 +172,7 @@
   },
   "aixam": {
     "name": "Aixam",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/aixam-logo.png",
       "width": 240,
@@ -184,6 +194,7 @@
   },
   "alfa-romeo": {
     "name": "Alfa Romeo",
+    "code": "ALFA_ROMEO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/alfa-romeo-logo.png",
       "width": 240,
@@ -205,6 +216,7 @@
   },
   "allard": {
     "name": "Allard Motor",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/allard-logo.png",
       "width": 240,
@@ -217,6 +229,7 @@
   },
   "alpina": {
     "name": "Alpina",
+    "code": "ALPINA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/alpina-logo.png",
       "width": 240,
@@ -238,6 +251,7 @@
   },
   "alpine": {
     "name": "Alpine",
+    "code": "ALPINE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/alpine-logo.png",
       "width": 240,
@@ -250,6 +264,7 @@
   },
   "alta": {
     "name": "Alta",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/alta-logo.png",
       "width": 240,
@@ -262,6 +277,7 @@
   },
   "alvis": {
     "name": "Alvis",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/alvis-logo.png",
       "width": 240,
@@ -283,6 +299,7 @@
   },
   "american-motors": {
     "name": "American Motors",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/american-motors-logo.png",
       "width": 240,
@@ -304,6 +321,7 @@
   },
   "amg": {
     "name": "AMG",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/amg-logo.png",
       "width": 240,
@@ -325,6 +343,7 @@
   },
   "arash": {
     "name": "Arash",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/arash-logo.png",
       "width": 240,
@@ -346,6 +365,7 @@
   },
   "arcfox": {
     "name": "Arcfox",
+    "code": "ARCFOX",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/arcfox-logo.png",
       "width": 240,
@@ -367,6 +387,7 @@
   },
   "ariel": {
     "name": "Ariel",
+    "code": "ARIEL",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ariel-logo.png",
       "width": 240,
@@ -388,6 +409,7 @@
   },
   "aro": {
     "name": "ARO",
+    "code": "ARO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/aro-logo.png",
       "width": 240,
@@ -409,6 +431,7 @@
   },
   "arrinera": {
     "name": "Arrinera",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/arrinera-logo.png",
       "width": 240,
@@ -421,6 +444,7 @@
   },
   "artega": {
     "name": "Artega",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/artega-logo.png",
       "width": 240,
@@ -442,6 +466,7 @@
   },
   "ascari": {
     "name": "Ascari",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ascari-logo.png",
       "width": 240,
@@ -463,6 +488,7 @@
   },
   "asia": {
     "name": "Asia Motor",
+    "code": "ASIA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/asia-logo.png",
       "width": 240,
@@ -475,6 +501,7 @@
   },
   "askam": {
     "name": "Askam",
+    "code": "ASKAM_DESOTO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/askam-logo.png",
       "width": 240,
@@ -496,6 +523,7 @@
   },
   "aston-martin": {
     "name": "Aston Martin",
+    "code": "ASTON_MARTIN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/aston-martin-logo.png",
       "width": 240,
@@ -517,6 +545,7 @@
   },
   "atalanta-motors": {
     "name": "Atalanta Motors",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/atalanta-motors-logo.png",
       "width": 240,
@@ -538,6 +567,7 @@
   },
   "auburn": {
     "name": "Auburn",
+    "code": "AUBURN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/auburn-logo.png",
       "width": 240,
@@ -550,6 +580,7 @@
   },
   "audi": {
     "name": "Audi",
+    "code": "AUDI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/audi-logo.png",
       "width": 240,
@@ -571,6 +602,7 @@
   },
   "aurus": {
     "name": "Aurus",
+    "code": "AURUS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/aurus-logo.jpg",
       "width": 240,
@@ -583,6 +615,7 @@
   },
   "austin": {
     "name": "Austin",
+    "code": "AUSTIN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/austin-logo.png",
       "width": 240,
@@ -604,6 +637,7 @@
   },
   "austin-healey": {
     "name": "Austin-Healey",
+    "code": "AUSTIN_HEALEY",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/austin-healey-logo.png",
       "width": 240,
@@ -616,6 +650,7 @@
   },
   "autobacs": {
     "name": "Autobacs",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/autobacs-logo.png",
       "width": 240,
@@ -637,6 +672,7 @@
   },
   "autobianchi": {
     "name": "Autobianchi",
+    "code": "AUTOBIANCHI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/autobianchi-logo.png",
       "width": 240,
@@ -658,6 +694,7 @@
   },
   "axon-automotive": {
     "name": "Axon Automotive",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/axon-automotive-logo.png",
       "width": 240,
@@ -679,6 +716,7 @@
   },
   "bac": {
     "name": "BAC",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bac-logo.png",
       "width": 240,
@@ -700,6 +738,7 @@
   },
   "baic-motor": {
     "name": "BAIC Motor",
+    "code": "BAIC",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/baic-motor-logo.png",
       "width": 240,
@@ -721,6 +760,7 @@
   },
   "bajaj": {
     "name": "Bajaj Auto",
+    "code": "BAJAJ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bajaj-logo.png",
       "width": 240,
@@ -733,6 +773,7 @@
   },
   "baltijas-dzips": {
     "name": "Baltijas Dzips",
+    "code": "BALTIJAS_DZIPS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/baltijas-dzips-logo.png",
       "width": 240,
@@ -745,6 +786,7 @@
   },
   "baojun": {
     "name": "Baojun",
+    "code": "BAOJUN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/baojun-logo.png",
       "width": 240,
@@ -766,6 +808,7 @@
   },
   "barkas": {
     "name": "Barkas",
+    "code": "BARKAS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/barkas-logo.jpg",
       "width": 240,
@@ -778,6 +821,7 @@
   },
   "batmobile": {
     "name": "Batmobile",
+    "code": "BATMOBILE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/batmobile-logo.png",
       "width": 240,
@@ -790,6 +834,7 @@
   },
   "baw": {
     "name": "BAW",
+    "code": "BAW",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/baw-logo.png",
       "width": 240,
@@ -802,6 +847,7 @@
   },
   "bentley": {
     "name": "Bentley",
+    "code": "BENTLEY",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bentley-logo.png",
       "width": 240,
@@ -823,6 +869,7 @@
   },
   "berkeley": {
     "name": "Berkeley",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/berkeley-logo.png",
       "width": 240,
@@ -835,6 +882,7 @@
   },
   "berliet": {
     "name": "Berliet",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/berliet-logo.png",
       "width": 240,
@@ -856,6 +904,7 @@
   },
   "bertone": {
     "name": "Bertone",
+    "code": "BERTONE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bertone-logo.png",
       "width": 240,
@@ -877,6 +926,7 @@
   },
   "bharatbenz": {
     "name": "BharatBenz",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bharatbenz-logo.png",
       "width": 240,
@@ -898,6 +948,7 @@
   },
   "bitter": {
     "name": "Bitter",
+    "code": "BITTER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bitter-logo.png",
       "width": 240,
@@ -919,6 +970,7 @@
   },
   "bizzarrini": {
     "name": "Bizzarrini",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bizzarrini-logo.png",
       "width": 240,
@@ -940,6 +992,7 @@
   },
   "bmw": {
     "name": "BMW",
+    "code": "BMW",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bmw-logo.png",
       "width": 240,
@@ -961,6 +1014,7 @@
   },
   "bmw-m": {
     "name": "BMW M",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bmw-m-logo.png",
       "width": 240,
@@ -982,6 +1036,7 @@
   },
   "bogdan": {
     "name": "Bogdan",
+    "code": "BOGDAN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bogdan-logo.png",
       "width": 240,
@@ -994,6 +1049,7 @@
   },
   "borgward": {
     "name": "Borgward",
+    "code": "BORGWARD",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/borgward-logo.png",
       "width": 240,
@@ -1015,6 +1071,7 @@
   },
   "bowler": {
     "name": "Bowler",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bowler-logo.png",
       "width": 240,
@@ -1036,6 +1093,7 @@
   },
   "brabus": {
     "name": "Brabus",
+    "code": "BRABUS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/brabus-logo.png",
       "width": 240,
@@ -1057,6 +1115,7 @@
   },
   "brammo": {
     "name": "Brammo",
+    "code": "BRAMMO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/brammo-logo.png",
       "width": 240,
@@ -1078,6 +1137,7 @@
   },
   "brilliance": {
     "name": "Brilliance",
+    "code": "BRILLIANCE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/brilliance-logo.png",
       "width": 240,
@@ -1099,6 +1159,7 @@
   },
   "bristol-cars": {
     "name": "Bristol Cars",
+    "code": "BRISTOL",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bristol-cars-logo.png",
       "width": 240,
@@ -1111,6 +1172,7 @@
   },
   "brooke-cars": {
     "name": "Brooke Cars",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/brooke-cars-logo.png",
       "width": 240,
@@ -1132,6 +1194,7 @@
   },
   "bufori": {
     "name": "Bufori",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bufori-logo.png",
       "width": 240,
@@ -1153,6 +1216,7 @@
   },
   "bugatti": {
     "name": "Bugatti",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/bugatti-logo.png",
       "width": 240,
@@ -1174,6 +1238,7 @@
   },
   "buick": {
     "name": "Buick",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/buick-logo.png",
       "width": 240,
@@ -1195,6 +1260,7 @@
   },
   "byd": {
     "name": "BYD",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/byd-logo.png",
       "width": 240,
@@ -1216,6 +1282,7 @@
   },
   "byvin": {
     "name": "Byvin",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/byvin-logo.jpg",
       "width": 240,
@@ -1228,6 +1295,7 @@
   },
   "cadillac": {
     "name": "Cadillac",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/cadillac-logo.png",
       "width": 240,
@@ -1249,6 +1317,7 @@
   },
   "callaway": {
     "name": "Callaway Cars",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/callaway-logo.png",
       "width": 240,
@@ -1261,6 +1330,7 @@
   },
   "caparo": {
     "name": "Caparo",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/caparo-logo.png",
       "width": 240,
@@ -1273,6 +1343,7 @@
   },
   "carlsson": {
     "name": "Carlsson",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/carlsson-logo.png",
       "width": 240,
@@ -1285,6 +1356,7 @@
   },
   "caterham": {
     "name": "Caterham",
+    "code": "CATERHAM",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/caterham-logo.png",
       "width": 240,
@@ -1306,6 +1378,7 @@
   },
   "chana": {
     "name": "Changan Automobile",
+    "code": "CHANGAN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/chana-logo.png",
       "width": 240,
@@ -1318,6 +1391,7 @@
   },
   "changan": {
     "name": "Changan",
+    "code": "CHANGAN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/changan-logo.png",
       "width": 240,
@@ -1339,6 +1413,7 @@
   },
   "changfeng": {
     "name": "Changfeng",
+    "code": "CHANGFENG",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/changfeng-logo.png",
       "width": 240,
@@ -1360,6 +1435,7 @@
   },
   "chaparral": {
     "name": "Chaparral Cars",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/chaparral-logo.png",
       "width": 240,
@@ -1372,6 +1448,7 @@
   },
   "chery": {
     "name": "Chery",
+    "code": "CHERY",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/chery-logo.png",
       "width": 240,
@@ -1393,6 +1470,7 @@
   },
   "chevrolet": {
     "name": "Chevrolet",
+    "code": "CHEVROLET",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/chevrolet-logo.png",
       "width": 240,
@@ -1414,6 +1492,7 @@
   },
   "chrysler": {
     "name": "Chrysler",
+    "code": "CHRYSLER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/chrysler-logo.png",
       "width": 240,
@@ -1435,6 +1514,7 @@
   },
   "ciimo": {
     "name": "Ciimo",
+    "code": "CIIMO_DONGFENG_HONDA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ciimo-logo.png",
       "width": 240,
@@ -1447,6 +1527,7 @@
   },
   "cisitalia": {
     "name": "Cisitalia",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/cisitalia-logo.png",
       "width": 240,
@@ -1459,6 +1540,7 @@
   },
   "citroen": {
     "name": "Citroen",
+    "code": "CITROEN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/citroen-logo.png",
       "width": 240,
@@ -1480,6 +1562,7 @@
   },
   "cizeta": {
     "name": "Cizeta",
+    "code": "CIZETA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/cizeta-logo.png",
       "width": 240,
@@ -1501,6 +1584,7 @@
   },
   "cole": {
     "name": "Cole",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/cole-logo.png",
       "width": 240,
@@ -1513,6 +1597,7 @@
   },
   "corre-la-licorne": {
     "name": "Corre La Licorne",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/corre-la-licorne-logo.png",
       "width": 240,
@@ -1525,6 +1610,7 @@
   },
   "corvette": {
     "name": "Corvette",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/corvette-logo.png",
       "width": 240,
@@ -1546,6 +1632,7 @@
   },
   "dacia": {
     "name": "Dacia",
+    "code": "DACIA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/dacia-logo.png",
       "width": 240,
@@ -1567,6 +1654,7 @@
   },
   "dadi": {
     "name": "DADI",
+    "code": "DADI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/dadi-logo.png",
       "width": 240,
@@ -1579,6 +1667,7 @@
   },
   "daewoo": {
     "name": "Daewoo",
+    "code": "DAEWOO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/daewoo-logo.png",
       "width": 240,
@@ -1600,6 +1689,7 @@
   },
   "daf": {
     "name": "DAF",
+    "code": "DAF",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/daf-logo.png",
       "width": 240,
@@ -1621,6 +1711,7 @@
   },
   "daihatsu": {
     "name": "Daihatsu",
+    "code": "DAIHATSU",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/daihatsu-logo.png",
       "width": 240,
@@ -1642,6 +1733,7 @@
   },
   "daimler": {
     "name": "Daimler",
+    "code": "DAIMLER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/daimler-logo.png",
       "width": 240,
@@ -1663,6 +1755,7 @@
   },
   "dartz": {
     "name": "Dartz",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/dartz-logo.png",
       "width": 240,
@@ -1684,6 +1777,7 @@
   },
   "datsun": {
     "name": "Datsun",
+    "code": "DATSUN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/datsun-logo.png",
       "width": 240,
@@ -1705,6 +1799,7 @@
   },
   "david-brown": {
     "name": "David Brown",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/david-brown-logo.png",
       "width": 240,
@@ -1726,6 +1821,7 @@
   },
   "de-tomaso": {
     "name": "De Tomaso",
+    "code": "DE_TOMASO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/de-tomaso-logo.png",
       "width": 240,
@@ -1747,6 +1843,7 @@
   },
   "delage": {
     "name": "Delage",
+    "code": "DELAGE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/delage-logo.png",
       "width": 240,
@@ -1768,6 +1865,7 @@
   },
   "derways": {
     "name": "Derways",
+    "code": "DERWAYS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/derways-logo.png",
       "width": 240,
@@ -1780,6 +1878,7 @@
   },
   "detroit-electric": {
     "name": "Detroit Electric",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/detroit-electric-logo.png",
       "width": 240,
@@ -1801,6 +1900,7 @@
   },
   "devel-sixteen": {
     "name": "Devel Sixteen",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/devel-sixteen-logo.png",
       "width": 240,
@@ -1822,6 +1922,7 @@
   },
   "diatto": {
     "name": "Diatto",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/diatto-logo.png",
       "width": 240,
@@ -1843,6 +1944,7 @@
   },
   "dina": {
     "name": "DINA",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/dina-logo.png",
       "width": 240,
@@ -1864,6 +1966,7 @@
   },
   "dkw": {
     "name": "DKW",
+    "code": "DKW",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/dkw-logo.png",
       "width": 240,
@@ -1885,6 +1988,7 @@
   },
   "dmc": {
     "name": "DMC",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/dmc-logo.png",
       "width": 240,
@@ -1906,6 +2010,7 @@
   },
   "dodge": {
     "name": "Dodge",
+    "code": "DODGE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/dodge-logo.png",
       "width": 240,
@@ -1927,6 +2032,7 @@
   },
   "dongfeng": {
     "name": "Dongfeng",
+    "code": "DONGFENG",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/dongfeng-logo.png",
       "width": 240,
@@ -1948,6 +2054,7 @@
   },
   "doninvest": {
     "name": "Doninvest",
+    "code": "DONINVEST",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/doninvest-logo.png",
       "width": 240,
@@ -1960,6 +2067,7 @@
   },
   "donkervoort": {
     "name": "Donkervoort",
+    "code": "DONKERVOORT",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/donkervoort-logo.png",
       "width": 240,
@@ -1981,6 +2089,7 @@
   },
   "ds": {
     "name": "DS",
+    "code": "DS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ds-logo.png",
       "width": 240,
@@ -2002,6 +2111,7 @@
   },
   "eagle-automobile": {
     "name": "Eagle automobile",
+    "code": "EAGLE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/eagle-automobile-logo.png",
       "width": 240,
@@ -2023,6 +2133,7 @@
   },
   "eco-motors": {
     "name": "Eco Motors",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/eco-motors-logo.png",
       "width": 240,
@@ -2035,6 +2146,7 @@
   },
   "edag": {
     "name": "EDAG",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/edag-logo.png",
       "width": 240,
@@ -2056,6 +2168,7 @@
   },
   "edsel": {
     "name": "Edsel",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/edsel-logo.png",
       "width": 240,
@@ -2077,6 +2190,7 @@
   },
   "eicher": {
     "name": "Eicher",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/eicher-logo.png",
       "width": 240,
@@ -2098,6 +2212,7 @@
   },
   "elemental": {
     "name": "Elemental",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/elemental-logo.png",
       "width": 240,
@@ -2119,6 +2234,7 @@
   },
   "elfin": {
     "name": "Elfin",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/elfin-logo.png",
       "width": 240,
@@ -2140,6 +2256,7 @@
   },
   "elva": {
     "name": "Elva",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/elva-logo.png",
       "width": 240,
@@ -2152,6 +2269,7 @@
   },
   "englon": {
     "name": "Englon",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/englon-logo.png",
       "width": 240,
@@ -2173,6 +2291,7 @@
   },
   "erf": {
     "name": "ERF",
+    "code": "ERF_MAN_TRUCK",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/erf-logo.png",
       "width": 240,
@@ -2194,6 +2313,7 @@
   },
   "eterniti": {
     "name": "Eterniti",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/eterniti-logo.png",
       "width": 240,
@@ -2215,6 +2335,7 @@
   },
   "exeed": {
     "name": "EXEED",
+    "code": "EXEED",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/exeed-logo.png",
       "width": 240,
@@ -2236,6 +2357,7 @@
   },
   "facel-vega": {
     "name": "Facel Vega",
+    "code": "FACEL_VEGA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/facel-vega-logo.png",
       "width": 240,
@@ -2257,6 +2379,7 @@
   },
   "faraday-future": {
     "name": "Faraday Future",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/faraday-future-logo.png",
       "width": 240,
@@ -2278,6 +2401,7 @@
   },
   "faw": {
     "name": "FAW",
+    "code": "FAW",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/faw-logo.png",
       "width": 240,
@@ -2299,6 +2423,7 @@
   },
   "ferrari": {
     "name": "Ferrari",
+    "code": "FERRARI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ferrari-logo.png",
       "width": 240,
@@ -2320,6 +2445,7 @@
   },
   "fiat": {
     "name": "Fiat",
+    "code": "FIAT",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/fiat-logo.png",
       "width": 240,
@@ -2341,6 +2467,7 @@
   },
   "fioravanti": {
     "name": "Fioravanti",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/fioravanti-logo.png",
       "width": 240,
@@ -2362,6 +2489,7 @@
   },
   "fisker": {
     "name": "Fisker",
+    "code": "FISKER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/fisker-logo.png",
       "width": 240,
@@ -2383,6 +2511,7 @@
   },
   "foden": {
     "name": "Foden",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/foden-logo.png",
       "width": 240,
@@ -2404,6 +2533,7 @@
   },
   "force-motors": {
     "name": "Force Motors",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/force-motors-logo.png",
       "width": 240,
@@ -2425,6 +2555,7 @@
   },
   "ford": {
     "name": "Ford",
+    "code": "FORD",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ford-logo.png",
       "width": 240,
@@ -2446,6 +2577,7 @@
   },
   "foton": {
     "name": "Foton",
+    "code": "FOTON",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/foton-logo.png",
       "width": 240,
@@ -2467,6 +2599,7 @@
   },
   "fpv": {
     "name": "FPV",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/fpv-logo.png",
       "width": 240,
@@ -2479,6 +2612,7 @@
   },
   "franklin": {
     "name": "Franklin",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/franklin-logo.png",
       "width": 240,
@@ -2500,6 +2634,7 @@
   },
   "freightliner": {
     "name": "Freightliner",
+    "code": "FREIGHTLINER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/freightliner-logo.png",
       "width": 240,
@@ -2521,6 +2656,7 @@
   },
   "fso": {
     "name": "FSO",
+    "code": "FSO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/fso-logo.png",
       "width": 240,
@@ -2533,6 +2669,7 @@
   },
   "fuqi": {
     "name": "Fuqi",
+    "code": "FUQI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/fuqi-logo.png",
       "width": 240,
@@ -2545,6 +2682,7 @@
   },
   "gac": {
     "name": "GAC",
+    "code": "GAC",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/gac-logo.png",
       "width": 240,
@@ -2557,6 +2695,7 @@
   },
   "gardner-douglas": {
     "name": "Gardner Douglas",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/gardner-douglas-logo.png",
       "width": 240,
@@ -2578,6 +2717,7 @@
   },
   "gaz": {
     "name": "GAZ",
+    "code": "GAZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/gaz-logo.png",
       "width": 240,
@@ -2599,6 +2739,7 @@
   },
   "geely": {
     "name": "Geely",
+    "code": "GEELY",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/geely-logo.png",
       "width": 240,
@@ -2620,6 +2761,7 @@
   },
   "general-motors": {
     "name": "General Motors",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/general-motors-logo.png",
       "width": 240,
@@ -2641,6 +2783,7 @@
   },
   "genesis": {
     "name": "Genesis",
+    "code": "GENESIS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/genesis-logo.png",
       "width": 240,
@@ -2653,6 +2796,7 @@
   },
   "geo": {
     "name": "Geo",
+    "code": "GEO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/geo-logo.png",
       "width": 240,
@@ -2674,6 +2818,7 @@
   },
   "gilbern": {
     "name": "Gilbern",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/gilbern-logo.png",
       "width": 240,
@@ -2695,6 +2840,7 @@
   },
   "gillet": {
     "name": "Gillet",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/gillet-logo.png",
       "width": 240,
@@ -2707,6 +2853,7 @@
   },
   "ginetta": {
     "name": "Ginetta",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ginetta-logo.png",
       "width": 240,
@@ -2728,6 +2875,7 @@
   },
   "gmc": {
     "name": "GMC",
+    "code": "GMC",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/gmc-logo.png",
       "width": 240,
@@ -2749,6 +2897,7 @@
   },
   "gonow": {
     "name": "Gonow",
+    "code": "GONOW",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/gonow-logo.png",
       "width": 240,
@@ -2770,6 +2919,7 @@
   },
   "gordon": {
     "name": "Gordon",
+    "code": "GORDON",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/gordon-logo.png",
       "width": 240,
@@ -2782,6 +2932,7 @@
   },
   "great-wall": {
     "name": "Great Wall",
+    "code": "GREAT_WALL",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/great-wall-logo.png",
       "width": 240,
@@ -2803,6 +2954,7 @@
   },
   "grinnall-cars": {
     "name": "Grinnall cars",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/grinnall-cars-logo.png",
       "width": 240,
@@ -2824,6 +2976,7 @@
   },
   "gt-r": {
     "name": "GT R",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/gt-r-logo.png",
       "width": 240,
@@ -2845,6 +2998,7 @@
   },
   "gta-motor": {
     "name": "GTA Motor",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/gta-motor-logo.png",
       "width": 240,
@@ -2866,6 +3020,7 @@
   },
   "gumpert": {
     "name": "Gumpert",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/gumpert-logo.png",
       "width": 240,
@@ -2887,6 +3042,7 @@
   },
   "hafei": {
     "name": "Hafei",
+    "code": "HAFEI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hafei-logo.png",
       "width": 240,
@@ -2908,6 +3064,7 @@
   },
   "haima": {
     "name": "Haima",
+    "code": "HAIMA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/haima-logo.png",
       "width": 240,
@@ -2929,6 +3086,7 @@
   },
   "hanomag": {
     "name": "Hanomag",
+    "code": "HANOMAG",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hanomag-logo.png",
       "width": 240,
@@ -2941,6 +3099,7 @@
   },
   "haval": {
     "name": "Haval",
+    "code": "HAVAL",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/haval-logo.png",
       "width": 240,
@@ -2962,6 +3121,7 @@
   },
   "hawtai": {
     "name": "Hawtai",
+    "code": "HAWTAI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hawtai-logo.png",
       "width": 240,
@@ -2983,6 +3143,7 @@
   },
   "hennessey": {
     "name": "Hennessey",
+    "code": "HENNESSEY",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hennessey-logo.png",
       "width": 240,
@@ -2995,6 +3156,7 @@
   },
   "hillman": {
     "name": "Hillman",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hillman-logo.png",
       "width": 240,
@@ -3016,6 +3178,7 @@
   },
   "hindustan-motors": {
     "name": "Hindustan Motors",
+    "code": "HINDUSTAN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hindustan-motors-logo.png",
       "width": 240,
@@ -3037,6 +3200,7 @@
   },
   "hino": {
     "name": "Hino",
+    "code": "HINO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hino-logo.png",
       "width": 240,
@@ -3058,6 +3222,7 @@
   },
   "hiphi": {
     "name": "HiPhi",
+    "code": "HIPHI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hiphi-logo.png",
       "width": 240,
@@ -3079,6 +3244,7 @@
   },
   "hispano-suiza": {
     "name": "Hispano Suiza",
+    "code": "HISPANO_SUIZA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hispano-suiza-logo.png",
       "width": 240,
@@ -3100,6 +3266,7 @@
   },
   "holden": {
     "name": "Holden",
+    "code": "HOLDEN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/holden-logo.png",
       "width": 240,
@@ -3121,6 +3288,7 @@
   },
   "hommell": {
     "name": "Hommell",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hommell-logo.png",
       "width": 240,
@@ -3142,6 +3310,7 @@
   },
   "honda": {
     "name": "Honda",
+    "code": "HONDA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/honda-logo.png",
       "width": 240,
@@ -3163,6 +3332,7 @@
   },
   "hongqi": {
     "name": "Hongqi",
+    "code": "HONGQI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hongqi-logo.png",
       "width": 240,
@@ -3184,6 +3354,7 @@
   },
   "horch": {
     "name": "Horch",
+    "code": "HORCH",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/horch-logo.png",
       "width": 240,
@@ -3205,6 +3376,7 @@
   },
   "hsv": {
     "name": "HSV",
+    "code": "HSV",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hsv-logo.png",
       "width": 240,
@@ -3226,6 +3398,7 @@
   },
   "huanghai": {
     "name": "Huanghai",
+    "code": "HUANGHAI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/huanghai-logo.png",
       "width": 240,
@@ -3238,6 +3411,7 @@
   },
   "hudson": {
     "name": "Hudson",
+    "code": "HUDSON",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hudson-logo.png",
       "width": 240,
@@ -3259,6 +3433,7 @@
   },
   "hummer": {
     "name": "Hummer",
+    "code": "HUMMER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hummer-logo.png",
       "width": 240,
@@ -3280,6 +3455,7 @@
   },
   "hupmobile": {
     "name": "Hupmobile",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hupmobile-logo.png",
       "width": 240,
@@ -3301,6 +3477,7 @@
   },
   "hyundai": {
     "name": "Hyundai",
+    "code": "HYUNDAI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/hyundai-logo.png",
       "width": 240,
@@ -3322,6 +3499,7 @@
   },
   "ic-bus": {
     "name": "IC Bus",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ic-bus-logo.png",
       "width": 240,
@@ -3343,6 +3521,7 @@
   },
   "ifa": {
     "name": "IFA",
+    "code": "IFA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ifa-logo.png",
       "width": 240,
@@ -3355,6 +3534,7 @@
   },
   "ika": {
     "name": "IKA",
+    "code": "KIA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ika-logo.png",
       "width": 240,
@@ -3367,6 +3547,7 @@
   },
   "ikarus": {
     "name": "Ikarus",
+    "code": "IKARUS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ikarus-logo.png",
       "width": 240,
@@ -3379,6 +3560,7 @@
   },
   "infiniti": {
     "name": "Infiniti",
+    "code": "INFINITI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/infiniti-logo.png",
       "width": 240,
@@ -3400,6 +3582,7 @@
   },
   "innocenti": {
     "name": "Innocenti",
+    "code": "INNOCENTI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/innocenti-logo.png",
       "width": 240,
@@ -3421,6 +3604,7 @@
   },
   "intermeccanica": {
     "name": "Intermeccanica",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/intermeccanica-logo.png",
       "width": 240,
@@ -3433,6 +3617,7 @@
   },
   "international-harvester": {
     "name": "International Harvester",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/international-harvester-logo.png",
       "width": 240,
@@ -3454,6 +3639,7 @@
   },
   "international-trucks": {
     "name": "International Trucks",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/international-trucks-logo.png",
       "width": 240,
@@ -3475,6 +3661,7 @@
   },
   "invicta": {
     "name": "Invicta",
+    "code": "INVICTA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/invicta-logo.png",
       "width": 240,
@@ -3487,6 +3674,7 @@
   },
   "iran-khodro": {
     "name": "Iran Khodro",
+    "code": "IRAN_KHODRO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/iran-khodro-logo.png",
       "width": 240,
@@ -3508,6 +3696,7 @@
   },
   "irizar": {
     "name": "Irizar",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/irizar-logo.png",
       "width": 240,
@@ -3529,6 +3718,7 @@
   },
   "isdera": {
     "name": "Isdera",
+    "code": "ISDERA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/isdera-logo.png",
       "width": 240,
@@ -3550,6 +3740,7 @@
   },
   "iso": {
     "name": "Iso",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/iso-logo.png",
       "width": 240,
@@ -3571,6 +3762,7 @@
   },
   "isuzu": {
     "name": "Isuzu",
+    "code": "ISUZU",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/isuzu-logo.png",
       "width": 240,
@@ -3592,6 +3784,7 @@
   },
   "iveco": {
     "name": "Iveco",
+    "code": "IVECO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/iveco-logo.png",
       "width": 240,
@@ -3613,6 +3806,7 @@
   },
   "izh": {
     "name": "IZH",
+    "code": "IZH",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/izh-logo.png",
       "width": 240,
@@ -3625,6 +3819,7 @@
   },
   "jac-motors": {
     "name": "JAC Motors",
+    "code": "JAC",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/jac-motors-logo.png",
       "width": 240,
@@ -3646,6 +3841,7 @@
   },
   "jaguar": {
     "name": "Jaguar",
+    "code": "JAGUAR",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/jaguar-logo.png",
       "width": 240,
@@ -3667,6 +3863,7 @@
   },
   "jawa": {
     "name": "Jawa",
+    "code": "JAWA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/jawa-logo.png",
       "width": 240,
@@ -3679,6 +3876,7 @@
   },
   "jba-motors": {
     "name": "JBA Motors",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/jba-motors-logo.png",
       "width": 240,
@@ -3700,6 +3898,7 @@
   },
   "jeep": {
     "name": "Jeep",
+    "code": "JEEP",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/jeep-logo.png",
       "width": 240,
@@ -3721,6 +3920,7 @@
   },
   "jensen": {
     "name": "Jensen",
+    "code": "JENSEN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/jensen-logo.png",
       "width": 240,
@@ -3742,6 +3942,7 @@
   },
   "jetour": {
     "name": "Jetour",
+    "code": "JETOUR",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/jetour-logo.png",
       "width": 240,
@@ -3763,6 +3964,7 @@
   },
   "jiangling": {
     "name": "Jiangling",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/jiangling-logo.png",
       "width": 240,
@@ -3784,6 +3986,7 @@
   },
   "jinbei": {
     "name": "Jinbei",
+    "code": "JINBEI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/jinbei-logo.png",
       "width": 240,
@@ -3796,6 +3999,7 @@
   },
   "jmc": {
     "name": "JMC",
+    "code": "JMC",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/jmc-logo.png",
       "width": 240,
@@ -3808,6 +4012,7 @@
   },
   "kaiser": {
     "name": "Kaiser",
+    "code": "KAISER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/kaiser-logo.png",
       "width": 240,
@@ -3829,6 +4034,7 @@
   },
   "kamaz": {
     "name": "Kamaz",
+    "code": "KAMAZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/kamaz-logo.png",
       "width": 240,
@@ -3850,6 +4056,7 @@
   },
   "karma": {
     "name": "Karma",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/karma-logo.png",
       "width": 240,
@@ -3871,6 +4078,7 @@
   },
   "kavz": {
     "name": "KAvZ",
+    "code": "KAVZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/kavz-logo.png",
       "width": 240,
@@ -3883,6 +4091,7 @@
   },
   "keating-supercars": {
     "name": "Keating Supercars",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/keating-supercars-logo.png",
       "width": 240,
@@ -3904,6 +4113,7 @@
   },
   "kenworth": {
     "name": "Kenworth",
+    "code": "KENWORTH",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/kenworth-logo.png",
       "width": 240,
@@ -3925,6 +4135,7 @@
   },
   "kia": {
     "name": "Kia",
+    "code": "KIA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/kia-logo.png",
       "width": 240,
@@ -3946,6 +4157,7 @@
   },
   "koenigsegg": {
     "name": "Koenigsegg",
+    "code": "KOENIGSEGG",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/koenigsegg-logo.png",
       "width": 240,
@@ -3967,6 +4179,7 @@
   },
   "kraz": {
     "name": "KrAZ",
+    "code": "KRAZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/kraz-logo.png",
       "width": 240,
@@ -3979,6 +4192,7 @@
   },
   "ktm": {
     "name": "KTM",
+    "code": "KTM",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ktm-logo.png",
       "width": 240,
@@ -4000,6 +4214,7 @@
   },
   "lada": {
     "name": "Lada",
+    "code": "LADA_VAZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lada-logo.png",
       "width": 240,
@@ -4021,6 +4236,7 @@
   },
   "lagonda": {
     "name": "Lagonda",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lagonda-logo.png",
       "width": 240,
@@ -4042,6 +4258,7 @@
   },
   "lamborghini": {
     "name": "Lamborghini",
+    "code": "LAMBORGHINI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lamborghini-logo.png",
       "width": 240,
@@ -4063,6 +4280,7 @@
   },
   "lancia": {
     "name": "Lancia",
+    "code": "LANCIA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lancia-logo.png",
       "width": 240,
@@ -4084,6 +4302,7 @@
   },
   "land-rover": {
     "name": "Land Rover",
+    "code": "LAND_ROVER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/land-rover-logo.png",
       "width": 240,
@@ -4105,6 +4324,7 @@
   },
   "landwind": {
     "name": "Landwind",
+    "code": "LANDWIND",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/landwind-logo.png",
       "width": 240,
@@ -4126,6 +4346,7 @@
   },
   "laraki": {
     "name": "Laraki",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/laraki-logo.png",
       "width": 240,
@@ -4147,6 +4368,7 @@
   },
   "laz": {
     "name": "LAZ",
+    "code": "LAZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/laz-logo.png",
       "width": 240,
@@ -4159,6 +4381,7 @@
   },
   "lexus": {
     "name": "Lexus",
+    "code": "LEXUS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lexus-logo.png",
       "width": 240,
@@ -4180,6 +4403,7 @@
   },
   "leyland": {
     "name": "Leyland",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/leyland-logo.png",
       "width": 240,
@@ -4201,6 +4425,7 @@
   },
   "liaz": {
     "name": "LiAZ",
+    "code": "LIAZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/liaz-logo.png",
       "width": 240,
@@ -4213,6 +4438,7 @@
   },
   "liebao-motor": {
     "name": "Liebao Motor",
+    "code": "LIEBAO_MOTOR",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/liebao-motor-logo.png",
       "width": 240,
@@ -4225,6 +4451,7 @@
   },
   "lifan": {
     "name": "Lifan",
+    "code": "LIFAN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lifan-logo.png",
       "width": 240,
@@ -4246,6 +4473,7 @@
   },
   "ligier": {
     "name": "Ligier",
+    "code": "LIGIER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ligier-logo.png",
       "width": 240,
@@ -4267,6 +4495,7 @@
   },
   "lincoln": {
     "name": "Lincoln",
+    "code": "LINCOLN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lincoln-logo.png",
       "width": 240,
@@ -4288,6 +4517,7 @@
   },
   "lister-cars": {
     "name": "Lister Cars",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lister-cars-logo.png",
       "width": 240,
@@ -4309,6 +4539,7 @@
   },
   "lixiang": {
     "name": "LiXiang",
+    "code": "LIXIANG",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lixiang-logo.png",
       "width": 240,
@@ -4330,6 +4561,7 @@
   },
   "lloyd": {
     "name": "Lloyd",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lloyd-logo.png",
       "width": 240,
@@ -4351,6 +4583,7 @@
   },
   "lobini": {
     "name": "Lobini",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lobini-logo.png",
       "width": 240,
@@ -4372,6 +4605,7 @@
   },
   "london-ev-company": {
     "name": "London EV Company",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/london-ev-company-logo.png",
       "width": 240,
@@ -4393,6 +4627,7 @@
   },
   "lotus": {
     "name": "Lotus",
+    "code": "LOTUS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lotus-logo.png",
       "width": 240,
@@ -4414,6 +4649,7 @@
   },
   "lti": {
     "name": "LTI",
+    "code": "LTI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lti-logo.png",
       "width": 240,
@@ -4426,6 +4662,7 @@
   },
   "luaz": {
     "name": "LuAZ",
+    "code": "LUAZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/luaz-logo.png",
       "width": 240,
@@ -4438,6 +4675,7 @@
   },
   "lucid-motors": {
     "name": "Lucid Motors",
+    "code": "LUCID",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lucid-motors-logo.png",
       "width": 240,
@@ -4459,6 +4697,7 @@
   },
   "luxgen": {
     "name": "Luxgen",
+    "code": "LUXGEN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/luxgen-logo.png",
       "width": 240,
@@ -4480,6 +4719,7 @@
   },
   "lynk-and-co": {
     "name": "Lynk & Co",
+    "code": "LYNK_CO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/lynk-and-co-logo.png",
       "width": 240,
@@ -4501,6 +4741,7 @@
   },
   "mack": {
     "name": "Mack",
+    "code": "MACK",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mack-logo.png",
       "width": 240,
@@ -4522,6 +4763,7 @@
   },
   "mahindra": {
     "name": "Mahindra",
+    "code": "MAHINDRA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mahindra-logo.png",
       "width": 240,
@@ -4543,6 +4785,7 @@
   },
   "man": {
     "name": "MAN",
+    "code": "MAN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/man-logo.png",
       "width": 240,
@@ -4564,6 +4807,7 @@
   },
   "mansory": {
     "name": "Mansory",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mansory-logo.png",
       "width": 240,
@@ -4585,6 +4829,7 @@
   },
   "marcos": {
     "name": "Marcos",
+    "code": "MARCOS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/marcos-logo.png",
       "width": 240,
@@ -4606,6 +4851,7 @@
   },
   "marlin-car": {
     "name": "Marlin car",
+    "code": "MARLIN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/marlin-car-logo.png",
       "width": 240,
@@ -4627,6 +4873,7 @@
   },
   "marussia": {
     "name": "Marussia",
+    "code": "MARUSSIA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/marussia-logo.png",
       "width": 240,
@@ -4639,6 +4886,7 @@
   },
   "maruti": {
     "name": "Maruti",
+    "code": "MARUTI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/maruti-logo.png",
       "width": 240,
@@ -4651,6 +4899,7 @@
   },
   "maserati": {
     "name": "Maserati",
+    "code": "MASERATI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/maserati-logo.png",
       "width": 240,
@@ -4663,6 +4912,7 @@
   },
   "mastretta": {
     "name": "Mastretta",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mastretta-logo.png",
       "width": 240,
@@ -4684,6 +4934,7 @@
   },
   "matra": {
     "name": "Matra Sports",
+    "code": "MATRA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/matra-logo.png",
       "width": 240,
@@ -4696,6 +4947,7 @@
   },
   "maxus": {
     "name": "Maxus",
+    "code": "MAXUS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/maxus-logo.png",
       "width": 240,
@@ -4717,6 +4969,7 @@
   },
   "maybach": {
     "name": "Maybach",
+    "code": "MAYBACH",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/maybach-logo.png",
       "width": 240,
@@ -4738,6 +4991,7 @@
   },
   "maz": {
     "name": "MAZ",
+    "code": "MAZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/maz-logo.png",
       "width": 240,
@@ -4759,6 +5013,7 @@
   },
   "mazda": {
     "name": "Mazda",
+    "code": "MAZDA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mazda-logo.png",
       "width": 240,
@@ -4780,6 +5035,7 @@
   },
   "mazzanti-automobili": {
     "name": "Mazzanti Automobili",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mazzanti-automobili-logo.png",
       "width": 240,
@@ -4801,6 +5057,7 @@
   },
   "mclaren": {
     "name": "McLaren",
+    "code": "MCLAREN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mclaren-logo.png",
       "width": 240,
@@ -4822,6 +5079,7 @@
   },
   "melkus": {
     "name": "Melkus",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/melkus-logo.png",
       "width": 240,
@@ -4843,6 +5101,7 @@
   },
   "mercedes-benz": {
     "name": "Mercedes Benz",
+    "code": "MERCEDES_BENZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mercedes-benz-logo.png",
       "width": 240,
@@ -4864,6 +5123,7 @@
   },
   "mercury": {
     "name": "Mercury",
+    "code": "MERCURY",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mercury-logo.png",
       "width": 240,
@@ -4885,6 +5145,7 @@
   },
   "merkur": {
     "name": "Merkur",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/merkur-logo.png",
       "width": 240,
@@ -4906,6 +5167,7 @@
   },
   "mg": {
     "name": "MG",
+    "code": "MG",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mg-logo.png",
       "width": 240,
@@ -4927,6 +5189,7 @@
   },
   "microcar": {
     "name": "Microcar",
+    "code": "MICROCAR",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/microcar-logo.png",
       "width": 240,
@@ -4948,6 +5211,7 @@
   },
   "mills-extreme-vehicles": {
     "name": "Mills Extreme Vehicles",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mills-extreme-vehicles-logo.png",
       "width": 240,
@@ -4969,6 +5233,7 @@
   },
   "minelli": {
     "name": "Minelli",
+    "code": "MINELLI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/minelli-logo.png",
       "width": 240,
@@ -4981,6 +5246,7 @@
   },
   "mini": {
     "name": "Mini",
+    "code": "MINI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mini-logo.png",
       "width": 240,
@@ -5002,6 +5268,7 @@
   },
   "mitsubishi": {
     "name": "Mitsubishi",
+    "code": "MITSUBISHI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mitsubishi-logo.png",
       "width": 240,
@@ -5023,6 +5290,7 @@
   },
   "mitsuoka": {
     "name": "Mitsuoka",
+    "code": "MITSUOKA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mitsuoka-logo.png",
       "width": 240,
@@ -5044,6 +5312,7 @@
   },
   "mk-sportscars": {
     "name": "MK Sportscars",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mk-sportscars-logo.png",
       "width": 240,
@@ -5065,6 +5334,7 @@
   },
   "morgan": {
     "name": "Morgan",
+    "code": "MORGAN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/morgan-logo.png",
       "width": 240,
@@ -5086,6 +5356,7 @@
   },
   "morris": {
     "name": "Morris",
+    "code": "MORRIS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/morris-logo.png",
       "width": 240,
@@ -5107,6 +5378,7 @@
   },
   "moskvitch": {
     "name": "Moskvitch",
+    "code": "MOSKVICH",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/moskvitch-logo.png",
       "width": 240,
@@ -5119,6 +5391,7 @@
   },
   "mosler": {
     "name": "Mosler",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mosler-logo.png",
       "width": 240,
@@ -5140,6 +5413,7 @@
   },
   "mustang": {
     "name": "Mustang",
+    "code": "MUSTANG",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/mustang-logo.png",
       "width": 240,
@@ -5161,6 +5435,7 @@
   },
   "nash": {
     "name": "Nash",
+    "code": "NASH",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/nash-logo.png",
       "width": 240,
@@ -5173,6 +5448,7 @@
   },
   "navistar-international": {
     "name": "Navistar International",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/navistar-international-logo.png",
       "width": 240,
@@ -5194,6 +5470,7 @@
   },
   "neoplan": {
     "name": "Neoplan",
+    "code": "NEOPLAN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/neoplan-logo.png",
       "width": 240,
@@ -5206,6 +5483,7 @@
   },
   "nio": {
     "name": "Nio",
+    "code": "NIO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/nio-logo.png",
       "width": 240,
@@ -5227,6 +5505,7 @@
   },
   "nismo": {
     "name": "Nismo",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/nismo-logo.png",
       "width": 240,
@@ -5248,6 +5527,7 @@
   },
   "nissan": {
     "name": "Nissan",
+    "code": "NISSAN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/nissan-logo.png",
       "width": 240,
@@ -5269,6 +5549,7 @@
   },
   "noble": {
     "name": "Noble",
+    "code": "NOBLE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/noble-logo.png",
       "width": 240,
@@ -5290,6 +5571,7 @@
   },
   "oka": {
     "name": "OKA",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/oka-logo.png",
       "width": 240,
@@ -5302,6 +5584,7 @@
   },
   "oldsmobile": {
     "name": "Oldsmobile",
+    "code": "OLDSMOBILE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/oldsmobile-logo.png",
       "width": 240,
@@ -5323,6 +5606,7 @@
   },
   "oltcit": {
     "name": "Oltcit",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/oltcit-logo.png",
       "width": 240,
@@ -5344,6 +5628,7 @@
   },
   "omoda": {
     "name": "OMODA",
+    "code": "OMODA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/omoda-logo.png",
       "width": 240,
@@ -5365,6 +5650,7 @@
   },
   "opel": {
     "name": "Opel",
+    "code": "OPEL",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/opel-logo.png",
       "width": 240,
@@ -5386,6 +5672,7 @@
   },
   "osca": {
     "name": "OSCA",
+    "code": "OSCA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/osca-logo.png",
       "width": 240,
@@ -5398,6 +5685,7 @@
   },
   "oshan": {
     "name": "oshan",
+    "code": "OSHAN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/oshan-logo.png",
       "width": 240,
@@ -5419,6 +5707,7 @@
   },
   "paccar": {
     "name": "Paccar",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/paccar-logo.png",
       "width": 240,
@@ -5440,6 +5729,7 @@
   },
   "packard": {
     "name": "Packard",
+    "code": "PACKARD",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/packard-logo.png",
       "width": 240,
@@ -5452,6 +5742,7 @@
   },
   "pagani": {
     "name": "Pagani",
+    "code": "PAGANI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/pagani-logo.png",
       "width": 240,
@@ -5473,6 +5764,7 @@
   },
   "panhard": {
     "name": "Panhard",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/panhard-logo.png",
       "width": 240,
@@ -5485,6 +5777,7 @@
   },
   "panoz": {
     "name": "Panoz",
+    "code": "PANOZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/panoz-logo.png",
       "width": 240,
@@ -5506,6 +5799,7 @@
   },
   "paz": {
     "name": "PAZ",
+    "code": "PAZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/paz-logo.png",
       "width": 240,
@@ -5518,6 +5812,7 @@
   },
   "pegaso": {
     "name": "Pegaso",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/pegaso-logo.png",
       "width": 240,
@@ -5539,6 +5834,7 @@
   },
   "perodua": {
     "name": "Perodua",
+    "code": "PERODUA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/perodua-logo.png",
       "width": 240,
@@ -5560,6 +5856,7 @@
   },
   "peterbilt": {
     "name": "Peterbilt",
+    "code": "PETERBILT",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/peterbilt-logo.png",
       "width": 240,
@@ -5581,6 +5878,7 @@
   },
   "peugeot": {
     "name": "Peugeot",
+    "code": "PEUGEOT",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/peugeot-logo.png",
       "width": 240,
@@ -5602,6 +5900,7 @@
   },
   "pgo": {
     "name": "PGO",
+    "code": "PGO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/pgo-logo.png",
       "width": 240,
@@ -5623,6 +5922,7 @@
   },
   "piaggio": {
     "name": "Piaggio",
+    "code": "PIAGGIO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/piaggio-logo.png",
       "width": 240,
@@ -5635,6 +5935,7 @@
   },
   "pierce-arrow": {
     "name": "Pierce Arrow",
+    "code": "PIERCE_ARROW",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/pierce-arrow-logo.png",
       "width": 240,
@@ -5656,6 +5957,7 @@
   },
   "pininfarina": {
     "name": "Pininfarina",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/pininfarina-logo.png",
       "width": 240,
@@ -5668,6 +5970,7 @@
   },
   "plymouth": {
     "name": "Plymouth",
+    "code": "PLYMOUTH",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/plymouth-logo.png",
       "width": 240,
@@ -5689,6 +5992,7 @@
   },
   "polestar": {
     "name": "Polestar",
+    "code": "POLESTAR",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/polestar-logo.png",
       "width": 240,
@@ -5710,6 +6014,7 @@
   },
   "pontiac": {
     "name": "Pontiac",
+    "code": "PONTIAC",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/pontiac-logo.png",
       "width": 240,
@@ -5731,6 +6036,7 @@
   },
   "porsche": {
     "name": "Porsche",
+    "code": "PORSCHE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/porsche-logo.png",
       "width": 240,
@@ -5743,6 +6049,7 @@
   },
   "praga": {
     "name": "Praga",
+    "code": "PRAGA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/praga-logo.png",
       "width": 240,
@@ -5764,6 +6071,7 @@
   },
   "premier": {
     "name": "Premier",
+    "code": "PREMIER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/premier-logo.png",
       "width": 240,
@@ -5785,6 +6093,7 @@
   },
   "prodrive": {
     "name": "Prodrive",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/prodrive-logo.png",
       "width": 240,
@@ -5806,6 +6115,7 @@
   },
   "proton": {
     "name": "Proton",
+    "code": "PROTON",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/proton-logo.png",
       "width": 240,
@@ -5827,6 +6137,7 @@
   },
   "puch": {
     "name": "Puch",
+    "code": "PUCH",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/puch-logo.png",
       "width": 240,
@@ -5839,6 +6150,7 @@
   },
   "qoros": {
     "name": "Qoros",
+    "code": "QOROS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/qoros-logo.png",
       "width": 240,
@@ -5860,6 +6172,7 @@
   },
   "qvale": {
     "name": "Qvale",
+    "code": "QVALE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/qvale-logo.png",
       "width": 240,
@@ -5872,6 +6185,7 @@
   },
   "radical-sportscars": {
     "name": "Radical Sportscars",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/radical-sportscars-logo.png",
       "width": 240,
@@ -5893,6 +6207,7 @@
   },
   "ram": {
     "name": "Ram",
+    "code": "RAM",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ram-logo.png",
       "width": 240,
@@ -5905,6 +6220,7 @@
   },
   "rambler": {
     "name": "Rambler",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/rambler-logo.png",
       "width": 240,
@@ -5926,6 +6242,7 @@
   },
   "ranz": {
     "name": "Ranz",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ranz-logo.png",
       "width": 240,
@@ -5947,6 +6264,7 @@
   },
   "ravon": {
     "name": "Ravon",
+    "code": "RAVON",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ravon-logo.png",
       "width": 240,
@@ -5959,6 +6277,7 @@
   },
   "renault": {
     "name": "Renault",
+    "code": "RENAULT",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/renault-logo.png",
       "width": 240,
@@ -5980,6 +6299,7 @@
   },
   "renault-samsung-motors": {
     "name": "Renault Samsung Motors",
+    "code": "RENAULT_SAMSUNG",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/renault-samsung-motors-logo.png",
       "width": 240,
@@ -6001,6 +6321,7 @@
   },
   "rezvani": {
     "name": "Rezvani",
+    "code": "REZVANI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/rezvani-logo.png",
       "width": 240,
@@ -6022,6 +6343,7 @@
   },
   "riley": {
     "name": "Riley",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/riley-logo.png",
       "width": 240,
@@ -6043,6 +6365,7 @@
   },
   "rimac": {
     "name": "Rimac",
+    "code": "RIMAC",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/rimac-logo.png",
       "width": 240,
@@ -6064,6 +6387,7 @@
   },
   "rinspeed": {
     "name": "Rinspeed",
+    "code": "RINSPEED",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/rinspeed-logo.png",
       "width": 240,
@@ -6085,6 +6409,7 @@
   },
   "rivian": {
     "name": "Rivian",
+    "code": "RIVIAN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/rivian-logo.png",
       "width": 240,
@@ -6106,6 +6431,7 @@
   },
   "roewe": {
     "name": "Roewe",
+    "code": "ROEWE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/roewe-logo.png",
       "width": 240,
@@ -6127,6 +6453,7 @@
   },
   "rolls-royce": {
     "name": "Rolls Royce",
+    "code": "ROLLS_ROYCE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/rolls-royce-logo.png",
       "width": 240,
@@ -6148,6 +6475,7 @@
   },
   "ronart-cars": {
     "name": "Ronart Cars",
+    "code": "RONART",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ronart-cars-logo.png",
       "width": 240,
@@ -6169,6 +6497,7 @@
   },
   "rossion": {
     "name": "Rossion",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/rossion-logo.png",
       "width": 240,
@@ -6190,6 +6519,7 @@
   },
   "rover": {
     "name": "Rover",
+    "code": "ROVER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/rover-logo.png",
       "width": 240,
@@ -6211,6 +6541,7 @@
   },
   "ruf": {
     "name": "Ruf",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ruf-logo.png",
       "width": 240,
@@ -6232,6 +6563,7 @@
   },
   "saab": {
     "name": "Saab",
+    "code": "SAAB",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/saab-logo.png",
       "width": 240,
@@ -6253,6 +6585,7 @@
   },
   "saic-motor": {
     "name": "SAIC Motor",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/saic-motor-logo.png",
       "width": 240,
@@ -6274,6 +6607,7 @@
   },
   "saipa": {
     "name": "Saipa",
+    "code": "SAIPA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/saipa-logo.png",
       "width": 240,
@@ -6295,6 +6629,7 @@
   },
   "saleen": {
     "name": "Saleen",
+    "code": "SALEEN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/saleen-logo.png",
       "width": 240,
@@ -6316,6 +6651,7 @@
   },
   "santana": {
     "name": "Santana",
+    "code": "SANTANA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/santana-logo.png",
       "width": 240,
@@ -6328,6 +6664,7 @@
   },
   "saturn": {
     "name": "Saturn",
+    "code": "SATURN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/saturn-logo.png",
       "width": 240,
@@ -6349,6 +6686,7 @@
   },
   "scania": {
     "name": "Scania",
+    "code": "SCANIA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/scania-logo.png",
       "width": 240,
@@ -6370,6 +6708,7 @@
   },
   "scion": {
     "name": "Scion",
+    "code": "SCION",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/scion-logo.png",
       "width": 240,
@@ -6391,6 +6730,7 @@
   },
   "seat": {
     "name": "SEAT",
+    "code": "SEAT",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/seat-logo.png",
       "width": 240,
@@ -6412,6 +6752,7 @@
   },
   "seaz": {
     "name": "SeAZ",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/seaz-logo.jpg",
       "width": 240,
@@ -6424,6 +6765,7 @@
   },
   "setra": {
     "name": "Setra",
+    "code": "SETRA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/setra-logo.png",
       "width": 240,
@@ -6445,6 +6787,7 @@
   },
   "shanghai-maple": {
     "name": "Shanghai Maple",
+    "code": "SHANGHAI_MAPLE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/shanghai-maple-logo.png",
       "width": 240,
@@ -6457,6 +6800,7 @@
   },
   "shelby": {
     "name": "Shelby",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/shelby-logo.png",
       "width": 240,
@@ -6478,6 +6822,7 @@
   },
   "shuanghuan": {
     "name": "Shuanghuan",
+    "code": "SHUANGHUAN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/shuanghuan-logo.png",
       "width": 240,
@@ -6490,6 +6835,7 @@
   },
   "simca": {
     "name": "Simca",
+    "code": "SIMCA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/simca-logo.png",
       "width": 240,
@@ -6511,6 +6857,7 @@
   },
   "singer": {
     "name": "Singer",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/singer-logo.png",
       "width": 240,
@@ -6523,6 +6870,7 @@
   },
   "sisu": {
     "name": "Sisu",
+    "code": "SISU",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/sisu-logo.png",
       "width": 240,
@@ -6544,6 +6892,7 @@
   },
   "skoda": {
     "name": "Skoda",
+    "code": "SKODA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/skoda-logo.png",
       "width": 240,
@@ -6565,6 +6914,7 @@
   },
   "smart": {
     "name": "Smart",
+    "code": "SMART",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/smart-logo.png",
       "width": 240,
@@ -6586,6 +6936,7 @@
   },
   "smz": {
     "name": "SMZ",
+    "code": "SMZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/smz-logo.png",
       "width": 240,
@@ -6598,6 +6949,7 @@
   },
   "soueast": {
     "name": "Soueast",
+    "code": "SOUEAST",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/soueast-logo.png",
       "width": 240,
@@ -6619,6 +6971,7 @@
   },
   "spectre": {
     "name": "Spectre",
+    "code": "SPECTRE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/spectre-logo.png",
       "width": 240,
@@ -6631,6 +6984,7 @@
   },
   "spirra": {
     "name": "Spirra",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/spirra-logo.png",
       "width": 240,
@@ -6652,6 +7006,7 @@
   },
   "spyker": {
     "name": "Spyker",
+    "code": "SPYKER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/spyker-logo.png",
       "width": 240,
@@ -6673,6 +7028,7 @@
   },
   "srt": {
     "name": "SRT",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/srt-logo.png",
       "width": 240,
@@ -6694,6 +7050,7 @@
   },
   "ssangyong": {
     "name": "SsangYong",
+    "code": "SSANGYONG",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ssangyong-logo.png",
       "width": 240,
@@ -6715,6 +7072,7 @@
   },
   "ssc": {
     "name": "SSC",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ssc-logo.png",
       "width": 240,
@@ -6736,6 +7094,7 @@
   },
   "sterling": {
     "name": "Sterling",
+    "code": "STERLING",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/sterling-logo.png",
       "width": 240,
@@ -6757,6 +7116,7 @@
   },
   "steyr": {
     "name": "Steyr",
+    "code": "STEYR",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/steyr-logo.png",
       "width": 240,
@@ -6769,6 +7129,7 @@
   },
   "studebaker": {
     "name": "Studebaker",
+    "code": "STUDEBAKER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/studebaker-logo.png",
       "width": 240,
@@ -6790,6 +7151,7 @@
   },
   "subaru": {
     "name": "Subaru",
+    "code": "SUBARU",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/subaru-logo.png",
       "width": 240,
@@ -6811,6 +7173,7 @@
   },
   "suffolk-sportscars": {
     "name": "Suffolk Sportscars",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/suffolk-sportscars-logo.png",
       "width": 240,
@@ -6832,6 +7195,7 @@
   },
   "suzuki": {
     "name": "Suzuki",
+    "code": "SUZUKI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/suzuki-logo.png",
       "width": 240,
@@ -6853,6 +7217,7 @@
   },
   "tagaz": {
     "name": "TagAZ",
+    "code": "TAGAZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/tagaz-logo.png",
       "width": 240,
@@ -6865,6 +7230,7 @@
   },
   "talbot": {
     "name": "Talbot",
+    "code": "TALBOT",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/talbot-logo.png",
       "width": 240,
@@ -6886,6 +7252,7 @@
   },
   "tank": {
     "name": "Tank",
+    "code": "TANK",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/tank-logo.png",
       "width": 240,
@@ -6898,6 +7265,7 @@
   },
   "tata": {
     "name": "Tata",
+    "code": "TATA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/tata-logo.png",
       "width": 240,
@@ -6919,6 +7287,7 @@
   },
   "tatra": {
     "name": "Tatra",
+    "code": "TATRA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/tatra-logo.png",
       "width": 240,
@@ -6940,6 +7309,7 @@
   },
   "tauro-sport-auto": {
     "name": "Tauro Sport Auto",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/tauro-sport-auto-logo.png",
       "width": 240,
@@ -6961,6 +7331,7 @@
   },
   "tazzari": {
     "name": "Tazzari",
+    "code": "TAZZARI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/tazzari-logo.png",
       "width": 240,
@@ -6973,6 +7344,7 @@
   },
   "techart": {
     "name": "TechArt",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/techart-logo.png",
       "width": 240,
@@ -6994,6 +7366,7 @@
   },
   "tesla": {
     "name": "Tesla",
+    "code": "TESLA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/tesla-logo.png",
       "width": 240,
@@ -7015,6 +7388,7 @@
   },
   "think": {
     "name": "Think",
+    "code": "THINK",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/think-logo.png",
       "width": 240,
@@ -7027,6 +7401,7 @@
   },
   "tianma": {
     "name": "Tianma",
+    "code": "TIANMA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/tianma-logo.png",
       "width": 240,
@@ -7039,6 +7414,7 @@
   },
   "tianye": {
     "name": "Tianye",
+    "code": "TIANYE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/tianye-logo.png",
       "width": 240,
@@ -7051,6 +7427,7 @@
   },
   "tofas": {
     "name": "Tofas",
+    "code": "TOFAS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/tofas-logo.png",
       "width": 240,
@@ -7063,6 +7440,7 @@
   },
   "toyota": {
     "name": "Toyota",
+    "code": "TOYOTA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/toyota-logo.png",
       "width": 240,
@@ -7084,6 +7462,7 @@
   },
   "toyota-crown": {
     "name": "Toyota Crown",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/toyota-crown-logo.png",
       "width": 240,
@@ -7105,6 +7484,7 @@
   },
   "trabant": {
     "name": "Trabant",
+    "code": "TRABANT",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/trabant-logo.png",
       "width": 240,
@@ -7117,6 +7497,7 @@
   },
   "tramontana": {
     "name": "Tramontana",
+    "code": "TRAMONTANA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/tramontana-logo.png",
       "width": 240,
@@ -7138,6 +7519,7 @@
   },
   "trion": {
     "name": "Trion",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/trion-logo.png",
       "width": 240,
@@ -7159,6 +7541,7 @@
   },
   "triumph": {
     "name": "Triumph",
+    "code": "TRIUMPH",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/triumph-logo.png",
       "width": 240,
@@ -7180,6 +7563,7 @@
   },
   "troller": {
     "name": "Troller",
+    "code": "TROLL",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/troller-logo.png",
       "width": 240,
@@ -7201,6 +7585,7 @@
   },
   "trumpchi": {
     "name": "Trumpchi",
+    "code": "TRUMPCHI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/trumpchi-logo.png",
       "width": 240,
@@ -7222,6 +7607,7 @@
   },
   "tvr": {
     "name": "TVR",
+    "code": "TVR",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/tvr-logo.png",
       "width": 240,
@@ -7243,6 +7629,7 @@
   },
   "uaz": {
     "name": "UAZ",
+    "code": "UAZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/uaz-logo.png",
       "width": 240,
@@ -7264,6 +7651,7 @@
   },
   "ud-trucks": {
     "name": "UD Trucks",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ud-trucks-logo.png",
       "width": 240,
@@ -7285,6 +7673,7 @@
   },
   "ultima-sports": {
     "name": "Ultima Sports",
+    "code": "ULTIMA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ultima-sports-logo.png",
       "width": 240,
@@ -7306,6 +7695,7 @@
   },
   "ural": {
     "name": "URAL",
+    "code": "URAL",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/ural-logo.png",
       "width": 240,
@@ -7318,6 +7708,7 @@
   },
   "vandenbrink": {
     "name": "Vandenbrink",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/vandenbrink-logo.png",
       "width": 240,
@@ -7339,6 +7730,7 @@
   },
   "vauxhall": {
     "name": "Vauxhall",
+    "code": "VAUXHALL",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/vauxhall-logo.png",
       "width": 240,
@@ -7360,6 +7752,7 @@
   },
   "vazinterservice": {
     "name": "VAZINTERSERVICE",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/vazinterservice-logo.png",
       "width": 240,
@@ -7372,6 +7765,7 @@
   },
   "vector-motors": {
     "name": "Vector Motors",
+    "code": "VECTOR",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/vector-motors-logo.png",
       "width": 240,
@@ -7393,6 +7787,7 @@
   },
   "vencer": {
     "name": "Vencer",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/vencer-logo.png",
       "width": 240,
@@ -7414,6 +7809,7 @@
   },
   "venturi": {
     "name": "Venturi",
+    "code": "VENTURI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/venturi-logo.png",
       "width": 240,
@@ -7435,6 +7831,7 @@
   },
   "venucia": {
     "name": "Venucia",
+    "code": "VENUCIA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/venucia-logo.png",
       "width": 240,
@@ -7456,6 +7853,7 @@
   },
   "viper": {
     "name": "Viper",
+    "code": "VIPER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/viper-logo.png",
       "width": 240,
@@ -7477,6 +7875,7 @@
   },
   "volkswagen": {
     "name": "Volkswagen",
+    "code": "VOLKSWAGEN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/volkswagen-logo.png",
       "width": 240,
@@ -7498,6 +7897,7 @@
   },
   "volvo": {
     "name": "Volvo",
+    "code": "VOLVO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/volvo-logo.png",
       "width": 240,
@@ -7519,6 +7919,7 @@
   },
   "vortex": {
     "name": "Vortex",
+    "code": "VORTEX",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/vortex-logo.png",
       "width": 240,
@@ -7531,6 +7932,7 @@
   },
   "voyah": {
     "name": "Voyah",
+    "code": "VOYAH",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/voyah-logo.png",
       "width": 240,
@@ -7552,6 +7954,7 @@
   },
   "w-motors": {
     "name": "W Motors",
+    "code": "W_MOTORS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/w-motors-logo.png",
       "width": 240,
@@ -7573,6 +7976,7 @@
   },
   "wanderer": {
     "name": "Wanderer",
+    "code": "WANDERER",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/wanderer-logo.png",
       "width": 240,
@@ -7594,6 +7998,7 @@
   },
   "wartburg": {
     "name": "Wartburg",
+    "code": "WARTBURG",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/wartburg-logo.png",
       "width": 240,
@@ -7615,6 +8020,7 @@
   },
   "western-star": {
     "name": "Western Star",
+    "code": "WESTERN_STAR",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/western-star-logo.png",
       "width": 240,
@@ -7636,6 +8042,7 @@
   },
   "westfield": {
     "name": "Westfield",
+    "code": "WESTFIELD",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/westfield-logo.png",
       "width": 240,
@@ -7657,6 +8064,7 @@
   },
   "wiesmann": {
     "name": "Wiesmann",
+    "code": "WIESMANN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/wiesmann-logo.png",
       "width": 240,
@@ -7678,6 +8086,7 @@
   },
   "willys-knight": {
     "name": "Willys Knight",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/willys-knight-logo.png",
       "width": 240,
@@ -7690,6 +8099,7 @@
   },
   "willys-overland": {
     "name": "Willys Overland",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/willys-overland-logo.png",
       "width": 240,
@@ -7711,6 +8121,7 @@
   },
   "wuling": {
     "name": "Wuling",
+    "code": "WULING",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/wuling-logo.png",
       "width": 240,
@@ -7732,6 +8143,7 @@
   },
   "xin-kai": {
     "name": "Xin kai",
+    "code": "XIN_KAI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/xin-kai-logo.png",
       "width": 240,
@@ -7744,6 +8156,7 @@
   },
   "xpeng": {
     "name": "Xpeng",
+    "code": "XPENG",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/xpeng-logo.png",
       "width": 240,
@@ -7765,6 +8178,7 @@
   },
   "yamal": {
     "name": "YAMAL",
+    "code": "YAMAL",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/yamal-logo.png",
       "width": 240,
@@ -7777,6 +8191,7 @@
   },
   "yo-mobile": {
     "name": "E Mobile",
+    "code": "E_MOBIL",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/yo-mobile-logo.png",
       "width": 240,
@@ -7789,6 +8204,7 @@
   },
   "yulon": {
     "name": "Yulon",
+    "code": "YULON",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/yulon-logo.png",
       "width": 240,
@@ -7810,6 +8226,7 @@
   },
   "yutong": {
     "name": "Yutong",
+    "code": "YUTONG",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/yutong-logo.png",
       "width": 240,
@@ -7822,6 +8239,7 @@
   },
   "zarooq-motors": {
     "name": "Zarooq Motors",
+    "code": null,
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/zarooq-motors-logo.png",
       "width": 240,
@@ -7843,6 +8261,7 @@
   },
   "zastava": {
     "name": "Zastava",
+    "code": "ZASTAVA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/zastava-logo.png",
       "width": 240,
@@ -7864,6 +8283,7 @@
   },
   "zaz": {
     "name": "ZAZ",
+    "code": "ZAZ",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/zaz-logo.png",
       "width": 240,
@@ -7885,6 +8305,7 @@
   },
   "zeekr": {
     "name": "Zeekr",
+    "code": "ZEEKR",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/zeekr-logo.png",
       "width": 240,
@@ -7897,6 +8318,7 @@
   },
   "zenos-cars": {
     "name": "Zenos Cars",
+    "code": "ZENOS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/zenos-cars-logo.png",
       "width": 240,
@@ -7918,6 +8340,7 @@
   },
   "zenvo": {
     "name": "Zenvo",
+    "code": "ZENVO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/zenvo-logo.png",
       "width": 240,
@@ -7939,6 +8362,7 @@
   },
   "zibar": {
     "name": "Zibar",
+    "code": "ZIBAR",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/zibar-logo.png",
       "width": 240,
@@ -7951,6 +8375,7 @@
   },
   "zil": {
     "name": "ZiL",
+    "code": "ZIL",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/zil-logo-logo.png",
       "width": 240,
@@ -7963,6 +8388,7 @@
   },
   "zis": {
     "name": "ZIS",
+    "code": "ZIS",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/zis-logo.png",
       "width": 240,
@@ -7975,6 +8401,7 @@
   },
   "zotye": {
     "name": "Zotye",
+    "code": "ZOTYE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/zotye-logo.png",
       "width": 240,
@@ -7996,6 +8423,7 @@
   },
   "zx-auto": {
     "name": "Zx Auto",
+    "code": "ZX",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/zx-auto-logo.png",
       "width": 240,
