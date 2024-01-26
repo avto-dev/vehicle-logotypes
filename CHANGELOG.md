@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog][keepachangelog] and this project adher
 
 ### Added
 
-- Field `code` in `vehicle-logotypes.json`
+– Field `code` with the vehicle name in upper case in the `vehicle-logotypes.json`
 
 ## v2.7.0
 
