@@ -105,7 +105,7 @@ class VehicleLogotypesTest extends TestCase
             $this->assertNotEmpty($item['name']);
             $this->assertMatchesRegularExpression('~[a-zA-Z0-9\-\ ]+~', $item['name']);
 
-            foreach (['name', 'logotype', 'alternatives'] as $expected_key) {
+            foreach (['name', 'code', 'logotype', 'alternatives'] as $expected_key) {
                 $this->assertArrayHasKey($expected_key, $item);
             }
 
