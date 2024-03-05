@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## Unreleased
+
+- New logotypes: `avatr, belgee, jaecoo, jetta, kaiyi, livan, swm`
+
 ## v2.8.0
 
 ### Added

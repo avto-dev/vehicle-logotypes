@@ -692,6 +692,28 @@
       }
     ]
   },
+  "avatr": {
+    "name": "AVATR",
+    "code": null,
+    "logotype": {
+        "uri": "https:\/\/vl.imgix.net\/img\/avatr-logo.png",
+        "width": 240,
+        "height": 180,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 1091
+    },
+    "alternatives": [
+        {
+            "uri": "https:\/\/vl.imgix.net\/img\/avatr-logo-640x100.png",
+            "width": 640,
+            "height": 100,
+            "mime": "image\/png",
+            "transparent": true,
+            "size": 3008
+        }
+    ]
+    },
   "axon-automotive": {
     "name": "Axon Automotive",
     "code": null,
@@ -864,6 +886,28 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 167099
+      }
+    ]
+  },
+  "belgee": {
+    "name": "Belgee",
+    "code": null,
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/belgee-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 9200
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/belgee-logo-640x274.png",
+        "width": 640,
+        "height": 274,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 31875
       }
     ]
   },
@@ -3839,6 +3883,28 @@
       }
     ]
   },
+  "jaecoo": {
+    "name": "Jaecoo",
+    "code": null,
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/jaecoo-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 1304
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/jaecoo-logo-640x180.png",
+        "width": 640,
+        "height": 180,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 2812
+      }
+    ]
+  },
   "jaguar": {
     "name": "Jaguar",
     "code": "JAGUAR",
@@ -3962,6 +4028,28 @@
       }
     ]
   },
+  "jetta": {
+    "name": "Jetta",
+    "code": null,
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/jetta-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 2288
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/jetta-logo-640x541.png",
+        "width": 640,
+        "height": 541,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 7563
+      }
+    ]
+  },
   "jiangling": {
     "name": "Jiangling",
     "code": null,
@@ -4029,6 +4117,28 @@
         "mime": "image\/jpeg",
         "transparent": false,
         "size": 41568
+      }
+    ]
+  },
+  "kaiyi": {
+    "name": "Kaiyi",
+    "code": null,
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/kaiyi-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 22198
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/kaiyi-logo-640x640.jpg",
+        "width": 640,
+        "height": 640,
+        "mime": "image\/jpeg",
+        "transparent": false,
+        "size": 101839
       }
     ]
   },
@@ -4534,6 +4644,28 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 971982
+      }
+    ]
+  },
+  "livan": {
+    "name": "Livan",
+    "code": null,
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/livan-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 2096
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/livan-logo-640x258.png",
+        "width": 640,
+        "height": 258,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 6387
       }
     ]
   },
@@ -7212,6 +7344,28 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 77861
+      }
+    ]
+  },
+  "swm": {
+    "name": "SWM",
+    "code": null,
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/swm-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 17528
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/swm-logo-640x371.png",
+        "width": 640,
+        "height": 371,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 85975
       }
     ]
   },
