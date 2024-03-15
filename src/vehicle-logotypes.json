@@ -694,7 +694,7 @@
   },
   "avatr": {
     "name": "AVATR",
-    "code": null,
+    "code": "AVATR",
     "logotype": {
         "uri": "https:\/\/vl.imgix.net\/img\/avatr-logo.png",
         "width": 240,
@@ -891,7 +891,7 @@
   },
   "belgee": {
     "name": "Belgee",
-    "code": null,
+    "code": "BELGEE",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/belgee-logo.png",
       "width": 240,
@@ -3885,7 +3885,7 @@
   },
   "jaecoo": {
     "name": "Jaecoo",
-    "code": null,
+    "code": "JAECOO",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/jaecoo-logo.png",
       "width": 240,
@@ -4030,7 +4030,7 @@
   },
   "jetta": {
     "name": "Jetta",
-    "code": null,
+    "code": "JETTA",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/jetta-logo.png",
       "width": 240,
@@ -4122,7 +4122,7 @@
   },
   "kaiyi": {
     "name": "Kaiyi",
-    "code": null,
+    "code": "KAIYI",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/kaiyi-logo.png",
       "width": 240,
@@ -4649,7 +4649,7 @@
   },
   "livan": {
     "name": "Livan",
-    "code": null,
+    "code": "LIVAN",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/livan-logo.png",
       "width": 240,
@@ -7349,7 +7349,7 @@
   },
   "swm": {
     "name": "SWM",
-    "code": null,
+    "code": "SWM",
     "logotype": {
       "uri": "https:\/\/vl.imgix.net\/img\/swm-logo.png",
       "width": 240,
