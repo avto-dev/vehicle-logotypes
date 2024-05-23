@@ -7,13 +7,13 @@ on:
 jobs:
   npmjs:
     name: Publish JS package
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Setup NodeJS
-        uses: actions/setup-node@v1 # Action page: <https://github.com/actions/setup-node>
+        uses: actions/setup-node@v4 # Action page: <https://github.com/actions/setup-node>
         with:
           node-version: 12
           registry-url: 'https://registry.npmjs.org'

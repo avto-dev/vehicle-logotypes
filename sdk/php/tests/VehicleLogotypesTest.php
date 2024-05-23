@@ -2,12 +2,14 @@
 
 declare(strict_types = 1);
 
+namespace AvtoDev\VehicleLogotypes\Tests;
+
 use PHPUnit\Framework\TestCase;
 use Illuminate\Support\Collection;
 use AvtoDev\VehicleLogotypes\VehicleLogotypes;
 
 /**
- * @covers \AvtoDev\VehicleLogotypes\VehicleLogotypes<extended>
+ * @covers \AvtoDev\VehicleLogotypes\VehicleLogotypes
  */
 class VehicleLogotypesTest extends TestCase
 {

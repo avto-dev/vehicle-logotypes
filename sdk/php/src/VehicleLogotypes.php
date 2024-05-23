@@ -4,6 +4,11 @@ declare(strict_types = 1);
 
 namespace AvtoDev\VehicleLogotypes;
 
+use Illuminate\Support\Collection;
+
+/**
+ * @extends Collection<string, array<string, mixed>>
+ */
 final class VehicleLogotypes extends \Illuminate\Support\Collection
 {
     /**
@@ -15,8 +20,9 @@ final class VehicleLogotypes extends \Illuminate\Support\Collection
      */
     public static function create(): self
     {
-        return new self(
-            \json_decode((string) \file_get_contents(__DIR__ . '/../../../src/vehicle-logotypes.json'), true, 512, JSON_THROW_ON_ERROR)
-        );
+        /** @var array<string, array<string, mixed>> $json */
+        $json = \json_decode((string) \file_get_contents(__DIR__ . '/../../../src/vehicle-logotypes.json'), true, 512, JSON_THROW_ON_ERROR);
+
+        return new self($json);
     }
 }

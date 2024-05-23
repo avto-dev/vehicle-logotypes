@@ -13,19 +13,19 @@ on:
 jobs: # Docs: <https://git.io/JvxXE>
   php:
     name: PHP ${{ matrix.php }}, ${{ matrix.setup }} setup
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     timeout-minutes: 10
     strategy:
       fail-fast: false
       matrix:
         setup: [basic, lowest]
-        php: ['7.3', '7.4', '8.0']
+        php: ['8.1', '8.2', '8.3']
     steps:
       - name: Check out code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Setup PHP, with composer and extensions
-        uses: shivammathur/setup-php@v2 # Action page: <https://github.com/shivammathur/setup-php>
+        uses: shivammathur/setup-php@v4 # Action page: <https://github.com/shivammathur/setup-php>
         with:
           php-version: ${{ matrix.php }}
           extensions: mbstring
@@ -35,7 +35,7 @@ jobs: # Docs: <https://git.io/JvxXE>
         run: echo "::set-output name=dir::$(composer config cache-files-dir)"
 
       - name: Cache dependencies # Docs: <https://git.io/JfAKn#php---composer>
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: ${{ steps.composer-cache.outputs.dir }}
           key: ${{ runner.os }}-composer-${{ matrix.setup }}-${{ hashFiles('**/composer.json') }}
@@ -57,7 +57,7 @@ jobs: # Docs: <https://git.io/JvxXE>
           XDEBUG_MODE: coverage
         run: composer test-cover
 
-      - uses: codecov/codecov-action@v1 # Docs: <https://github.com/codecov/codecov-action>
+      - uses: codecov/codecov-action@v4 # Docs: <https://github.com/codecov/codecov-action>
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
           file: ./sdk/php/coverage/clover.xml
@@ -66,13 +66,13 @@ jobs: # Docs: <https://git.io/JvxXE>
 
   js:
     name: JS tests
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Setup NodeJS
-        uses: actions/setup-node@v1 # Action page: <https://github.com/actions/setup-node>
+        uses: actions/setup-node@v4 # Action page: <https://github.com/actions/setup-node>
         with:
           node-version: '12'
 
@@ -85,10 +85,10 @@ jobs: # Docs: <https://git.io/JvxXE>
 
   lint-changelog:
     name: Lint changelog file
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Lint changelog file
         uses: docker://avtodev/markdown-lint:v1 # Action page: <https://github.com/avto-dev/markdown-lint>
