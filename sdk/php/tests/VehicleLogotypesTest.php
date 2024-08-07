@@ -7,7 +7,7 @@ use Illuminate\Support\Collection;
 use AvtoDev\VehicleLogotypes\VehicleLogotypes;
 
 /**
- * @covers \AvtoDev\VehicleLogotypes\VehicleLogotypes<extended>
+ * @covers \AvtoDev\VehicleLogotypes\VehicleLogotypes
  */
 class VehicleLogotypesTest extends TestCase
 {
