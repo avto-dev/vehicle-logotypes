@@ -10,6 +10,10 @@ The format is based on [Keep a Changelog][keepachangelog] and this project adher
 
 - Support Laravel `10.x` and `11.x`
 
+### Changed
+
+- Minimal `PHP` version now is `^8.0`
+
 ## v2.9.1
 
 ### Changed
