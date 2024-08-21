@@ -10,9 +10,8 @@ RUN set -x \
     # install xdebug (for testing with code coverage), but do not enable it
     && pecl install xdebug-3.3.0 1>/dev/null \
     && apk del .build-deps \
-    && mkdir /src ${COMPOSER_HOME} \
+    && mkdir --parents --mode=777 /src ${COMPOSER_HOME}/cache/repo ${COMPOSER_HOME}/cache/files \
     && ln -s /usr/bin/composer /usr/bin/c \
-    && chmod -R 777 ${COMPOSER_HOME} \
     && composer --version \
     && php -v \
     && php -m
