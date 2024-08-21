@@ -22,7 +22,7 @@ jobs: # Docs: <https://git.io/JvxXE>
         php: [ '8.0','8.1','8.2','8.3' ]
     steps:
       - name: Check out code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Setup PHP, with composer and extensions
         uses: shivammathur/setup-php@v2 # Action page: <https://github.com/shivammathur/setup-php>
@@ -35,7 +35,7 @@ jobs: # Docs: <https://git.io/JvxXE>
         run: echo "output_dir=dir::$(composer config cache-files-dir)" >> $GITHUB_OUTPUT
 
       - name: Cache dependencies # Docs: <https://git.io/JfAKn#php---composer>
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ${{ steps.composer-cache.outputs.output_dir }}
           key: ${{ runner.os }}-composer-${{ matrix.setup }}-${{ hashFiles('**/composer.json') }}
@@ -43,11 +43,11 @@ jobs: # Docs: <https://git.io/JvxXE>
 
       - name: Install lowest Composer dependencies
         if: matrix.setup == 'lowest'
-        run: composer update --prefer-dist --no-suggest --prefer-lowest --ansi
+        run: composer update --prefer-dist --prefer-lowest --ansi
 
       - name: Install basic Composer dependencies
         if: matrix.setup == 'basic'
-        run: composer update --prefer-dist --no-suggest --ansi
+        run: composer update --prefer-dist --ansi
 
       - name: Show most important packages versions
         run: composer info | grep -e illuminate -e phpunit -e phpstan
@@ -57,7 +57,7 @@ jobs: # Docs: <https://git.io/JvxXE>
           XDEBUG_MODE: coverage
         run: composer test-cover
 
-      - uses: codecov/codecov-action@v3 # Docs: <https://github.com/codecov/codecov-action>
+      - uses: codecov/codecov-action@v4 # Docs: <https://github.com/codecov/codecov-action>
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
           file: ./sdk/php/coverage/clover.xml

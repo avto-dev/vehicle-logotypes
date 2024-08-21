@@ -15,9 +15,8 @@ final class VehicleLogotypes extends \Illuminate\Support\Collection
      */
     public static function create(): self
     {
-        /** @var array<string, mixed> $data */
-        $data = \json_decode((string) \file_get_contents(__DIR__ . '/../../../src/vehicle-logotypes.json'), true, 512, JSON_THROW_ON_ERROR);
-
-        return new self($data);
+        return new self(
+            (array) \json_decode((string) \file_get_contents(__DIR__ . '/../../../src/vehicle-logotypes.json'), true, 512, JSON_THROW_ON_ERROR)
+        );
     }
 }
