@@ -1,5 +1,7 @@
 FROM php:8.1-alpine
 
+ENV COMPOSER_HOME="/tmp/composer"
+
 COPY --from=composer:2.7 /usr/bin/composer /usr/bin/composer
 
 RUN set -x \
