@@ -15,14 +15,14 @@
         }
     ],
     "require": {
-        "php": "^7.3 || ^8.0",
-        "illuminate/support": "~6.0 || ~7.0 || ~8.0 || ~9.0",
+        "php": "^8.0",
+        "illuminate/support": "~9.0 || ~10.0 || ~11.0",
         "ext-json": "*"
     },
     "require-dev": {
         "ext-mbstring": "*",
-        "phpstan/phpstan": "^0.12.36",
-        "phpunit/phpunit": "^9.3"
+        "phpstan/phpstan": "^1.10",
+        "phpunit/phpunit": "^9.6 || ^10.0"
     },
     "autoload": {
         "psr-4": {

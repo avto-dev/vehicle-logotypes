@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## Unreleased
+
+### Added
+
+- Support Laravel versions `10.x` and `11.x`
+
+### Changed
+
+- Minimal require PHP version now is `8.0`
+- Minimal Laravel version now is `9.0`
+- Version of `composer` in docker container updated up to `2.7`
+
 ## v2.9.1
 
 ### Changed
