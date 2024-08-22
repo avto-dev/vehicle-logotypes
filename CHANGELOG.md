@@ -12,7 +12,9 @@ The format is based on [Keep a Changelog][keepachangelog] and this project adher
 
 ### Changed
 
-- Minimal `PHP` version now is `^8.0`
+- Minimal require PHP version now is `8.0`
+- Minimal Laravel version now is `9.0`
+- Version of `composer` in docker container updated up to `2.7`
 
 ## v2.9.1
 
