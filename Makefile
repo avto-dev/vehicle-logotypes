@@ -14,10 +14,10 @@ help: ## Show this help
 	@awk 'BEGIN {FS = ":.*?## "} /^[a-zA-Z_-]+:.*?## / {printf "  \033[32m%-14s\033[0m %s\n", $$1, $$2}' $(MAKEFILE_LIST)
 
 build: ## Build docker images, required for current package environment
-	docker-compose build
+	docker compose build
 
 latest: clean ## Install latest php dependencies
-	docker-compose run $(RUN_APP_ARGS) app composer update -n --ansi --prefer-dist --prefer-stable
+	docker compose run $(RUN_APP_ARGS) app composer update -n --ansi --prefer-dist --prefer-stable
 
 install: clean ## Install regular php dependencies
 	docker-compose run $(RUN_APP_ARGS) app composer update -n --prefer-dist --no-interaction
