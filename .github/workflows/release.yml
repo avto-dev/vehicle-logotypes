@@ -7,7 +7,7 @@ on:
 jobs:
   npmjs:
     name: Publish JS package
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out code
         uses: actions/checkout@v2
