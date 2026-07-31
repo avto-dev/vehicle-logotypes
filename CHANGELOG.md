@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## Unreleased
+
+### Added
+
+- Laravel `13.x` support
+
+### Changed
+
+- Version of `composer` in docker container updated up to `2.10.2`
+- Docker PHP image updated up to `8.5`
+- `phpstan/phpstan` updated up to `^1.12`
+- `phpunit/phpunit` constraint updated up to `^9.6 || ^10.0 || ^11.0`
+
 ## v2.11.1
 
 ### Fixed
