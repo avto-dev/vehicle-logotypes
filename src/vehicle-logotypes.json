@@ -170,6 +170,28 @@
       }
     ]
   },
+  "aiways": {
+    "name": "Aiways",
+    "code": "AIWAYS",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/aiways-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 1876
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/aiways-logo-1000x600.png",
+        "width": 1000,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 10906
+      }
+    ]
+  },
   "aixam": {
     "name": "Aixam",
     "code": null,
@@ -696,24 +718,24 @@
     "name": "AVATR",
     "code": "AVATR",
     "logotype": {
-        "uri": "https:\/\/vl.imgix.net\/img\/avatr-logo.png",
-        "width": 240,
-        "height": 180,
-        "mime": "image\/png",
-        "transparent": true,
-        "size": 1091
+      "uri": "https:\/\/vl.imgix.net\/img\/avatr-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 1091
     },
     "alternatives": [
-        {
-            "uri": "https:\/\/vl.imgix.net\/img\/avatr-logo-640x100.png",
-            "width": 640,
-            "height": 100,
-            "mime": "image\/png",
-            "transparent": true,
-            "size": 3008
-        }
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/avatr-logo-640x100.png",
+        "width": 640,
+        "height": 100,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 3008
+      }
     ]
-    },
+  },
   "axon-automotive": {
     "name": "Axon Automotive",
     "code": null,
@@ -867,28 +889,6 @@
     },
     "alternatives": []
   },
-  "bentley": {
-    "name": "Bentley",
-    "code": "BENTLEY",
-    "logotype": {
-      "uri": "https:\/\/vl.imgix.net\/img\/bentley-logo.png",
-      "width": 240,
-      "height": 180,
-      "mime": "image\/png",
-      "transparent": true,
-      "size": 9007
-    },
-    "alternatives": [
-      {
-        "uri": "https:\/\/vl.imgix.net\/img\/bentley-logo-1920x1080.png",
-        "width": 1920,
-        "height": 1080,
-        "mime": "image\/png",
-        "transparent": true,
-        "size": 167099
-      }
-    ]
-  },
   "belgee": {
     "name": "Belgee",
     "code": "BELGEE",
@@ -908,6 +908,28 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 31875
+      }
+    ]
+  },
+  "bentley": {
+    "name": "Bentley",
+    "code": "BENTLEY",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/bentley-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 9007
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/bentley-logo-1920x1080.png",
+        "width": 1920,
+        "height": 1080,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 167099
       }
     ]
   },
@@ -1429,9 +1451,18 @@
       "height": 180,
       "mime": "image\/png",
       "transparent": true,
-      "size": 9452
+      "size": 21731
     },
-    "alternatives": []
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/chana-logo-600x600.png",
+        "width": 600,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 113259
+      }
+    ]
   },
   "changan": {
     "name": "Changan",
@@ -1474,6 +1505,28 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 43621
+      }
+    ]
+  },
+  "changhe": {
+    "name": "Changhe",
+    "code": "CHANGHE",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/changhe-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 46292
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/changhe-logo-1000x600.png",
+        "width": 1000,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 268475
       }
     ]
   },
@@ -1671,6 +1724,50 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 73153
+      }
+    ]
+  },
+  "cowin": {
+    "name": "Cowin",
+    "code": "COWIN",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/cowin-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 18356
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/cowin-logo-1200x200.png",
+        "width": 1200,
+        "height": 200,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 57233
+      }
+    ]
+  },
+  "cupra": {
+    "name": "Cupra",
+    "code": "CUPRA",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/cupra-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 3320
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/cupra-logo-1000x600.png",
+        "width": 1000,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 13311
       }
     ]
   },
@@ -2333,6 +2430,28 @@
       }
     ]
   },
+  "enovate": {
+    "name": "Enovate",
+    "code": "ENOVATE",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/enovate-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 5500
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/enovate-logo-1200x300.png",
+        "width": 1200,
+        "height": 300,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 34639
+      }
+    ]
+  },
   "erf": {
     "name": "ERF",
     "code": "ERF_MAN_TRUCK",
@@ -2374,6 +2493,50 @@
         "mime": "image\/jpeg",
         "transparent": false,
         "size": 15016
+      }
+    ]
+  },
+  "everus": {
+    "name": "Everus",
+    "code": "EVERUS",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/everus-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 21529
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/everus-logo-600x600.png",
+        "width": 600,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 105585
+      }
+    ]
+  },
+  "evolute": {
+    "name": "Evolute",
+    "code": "EVOLUTE",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/evolute-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 2130
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/evolute-logo-800x600.png",
+        "width": 800,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 15357
       }
     ]
   },
@@ -3141,6 +3304,28 @@
     },
     "alternatives": []
   },
+  "hanteng": {
+    "name": "Hanteng",
+    "code": "HANTENG",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/hanteng-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 52065
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/hanteng-logo-800x600.png",
+        "width": 600,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 190596
+      }
+    ]
+  },
   "haval": {
     "name": "Haval",
     "code": "HAVAL",
@@ -3418,6 +3603,28 @@
       }
     ]
   },
+  "hozon": {
+    "name": "Hozon",
+    "code": "HOZON",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/hozon-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 4335
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/hozon-logo-500x600.png",
+        "width": 500,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 26613
+      }
+    ]
+  },
   "hsv": {
     "name": "HSV",
     "code": "HSV",
@@ -3519,6 +3726,28 @@
       }
     ]
   },
+  "hycan": {
+    "name": "Hycan",
+    "code": "HYCAN",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/hycan-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 18155
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/hycan-logo-600x600.png",
+        "width": 600,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 89071
+      }
+    ]
+  },
   "hyundai": {
     "name": "Hyundai",
     "code": "HYUNDAI",
@@ -3560,6 +3789,28 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 362216
+      }
+    ]
+  },
+  "icar": {
+    "name": "iCar",
+    "code": "ICAR",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/icar-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 1972
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/icar-logo-1200x300.png",
+        "width": 1200,
+        "height": 300,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 8004
       }
     ]
   },
@@ -3914,7 +4165,7 @@
       "height": 180,
       "mime": "image\/png",
       "transparent": true,
-      "size": 6994
+      "size": 2987
     },
     "alternatives": [
       {
@@ -3924,6 +4175,14 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 129611
+      },
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/jaguar-logo-1200x500.png",
+        "width": 1200,
+        "height": 500,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 37025
       }
     ]
   },
@@ -4072,6 +4331,28 @@
       }
     ]
   },
+  "jidu": {
+    "name": "Jidu",
+    "code": "JIDU",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/jidu-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 1911
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/jidu-logo-1200x300.png",
+        "width": 1200,
+        "height": 300,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 14761
+      }
+    ]
+  },
   "jinbei": {
     "name": "Jinbei",
     "code": "JINBEI",
@@ -4097,6 +4378,28 @@
       "size": 5205
     },
     "alternatives": []
+  },
+  "jonway": {
+    "name": "Jonway",
+    "code": "JONWAY",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/jonway-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 39604
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/jonway-logo-1000x600.png",
+        "width": 1000,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 398418
+      }
+    ]
   },
   "kaiser": {
     "name": "Kaiser",
@@ -4161,6 +4464,28 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 109280
+      }
+    ]
+  },
+  "kandi": {
+    "name": "Kandi",
+    "code": "KANDI",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/kandi-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 4943
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/kandi-logo-1200x300.png",
+        "width": 1200,
+        "height": 300,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 17402
       }
     ]
   },
@@ -4252,7 +4577,7 @@
       "height": 180,
       "mime": "image\/png",
       "transparent": true,
-      "size": 7407
+      "size": 2019
     },
     "alternatives": [
       {
@@ -4262,6 +4587,14 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 167110
+      },
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/kia-logo-1000x300.png",
+        "width": 1000,
+        "height": 300,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 7721
       }
     ]
   },
@@ -4375,16 +4708,16 @@
       "height": 180,
       "mime": "image\/png",
       "transparent": true,
-      "size": 11210
+      "size": 21079
     },
     "alternatives": [
       {
-        "uri": "https:\/\/vl.imgix.net\/img\/lamborghini-logo-1920x1080.png",
-        "width": 1920,
-        "height": 1080,
+        "uri": "https:\/\/vl.imgix.net\/img\/lamborghini-logo-600x600.png",
+        "width": 600,
+        "height": 600,
         "mime": "image\/png",
         "transparent": true,
-        "size": 157133
+        "size": 106592
       }
     ]
   },
@@ -4488,6 +4821,50 @@
       "size": 4314
     },
     "alternatives": []
+  },
+  "leapmotor": {
+    "name": "Leapmotor",
+    "code": "LEAPMOTOR",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/leapmotor-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 2161
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/leapmotor-logo-1200x300.png",
+        "width": 1200,
+        "height": 300,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 10851
+      }
+    ]
+  },
+  "letin": {
+    "name": "Letin",
+    "code": "LETIN",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/letin-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 14821
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/letin-logo-600x600.png",
+        "width": 600,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 62579
+      }
+    ]
   },
   "lexus": {
     "name": "Lexus",
@@ -4827,6 +5204,28 @@
       }
     ]
   },
+  "luxeed": {
+    "name": "Luxeed",
+    "code": "LUXEED",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/luxeed-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 1530
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/luxeed-logo-500x600.png",
+        "width": 500,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 8908
+      }
+    ]
+  },
   "luxgen": {
     "name": "Luxgen",
     "code": "LUXGEN",
@@ -4871,6 +5270,28 @@
       }
     ]
   },
+  "m-hero": {
+    "name": "M-Hero",
+    "code": "M_HERO",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/m-hero-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 2886
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/m-hero-logo-1000x600.png",
+        "width": 1000,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 55883
+      }
+    ]
+  },
   "mack": {
     "name": "Mack",
     "code": "MACK",
@@ -4890,6 +5311,28 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 89054
+      }
+    ]
+  },
+  "maextro": {
+    "name": "Maextro",
+    "code": "MAEXTRO",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/maextro-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 2387
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/maextro-logo-500x600.png",
+        "width": 500,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 13763
       }
     ]
   },
@@ -5152,7 +5595,7 @@
       "height": 180,
       "mime": "image\/png",
       "transparent": true,
-      "size": 9381
+      "size": 3949
     },
     "alternatives": [
       {
@@ -5162,6 +5605,14 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 65948
+      },
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/mazda-logo-600x600.png",
+        "width": 600,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 16059
       }
     ]
   },
@@ -5461,6 +5912,28 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 7124
+      }
+    ]
+  },
+  "mobilize": {
+    "name": "Mobilize",
+    "code": "MOBILIZE",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/mobilize-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 16093
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/mobilize-logo-1200x300.png",
+        "width": 1200,
+        "height": 300,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 45810
       }
     ]
   },
@@ -5789,7 +6262,7 @@
       "height": 180,
       "mime": "image\/png",
       "transparent": true,
-      "size": 9232
+      "size": 3605
     },
     "alternatives": [
       {
@@ -5799,6 +6272,14 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 73000
+      },
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/opel-logo-600x600.png",
+        "width": 600,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 11752
       }
     ]
   },
@@ -6279,6 +6760,28 @@
       "size": 4743
     },
     "alternatives": []
+  },
+  "qiantu": {
+    "name": "Qiantu",
+    "code": "QIANTU",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/qiantu-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 20900
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/qiantu-logo-600x600.png",
+        "width": 600,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 111941
+      }
+    ]
   },
   "qoros": {
     "name": "Qoros",
@@ -6965,6 +7468,28 @@
     },
     "alternatives": []
   },
+  "simargl-elektro": {
+    "name": "Simargl Elektro",
+    "code": "SIMARGL_ELEKTRO",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/simargl-elektro-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 3792
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/simargl-elektro-logo-1000x600.png",
+        "width": 1000,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 24366
+      }
+    ]
+  },
   "simca": {
     "name": "Simca",
     "code": "SIMCA",
@@ -7221,6 +7746,28 @@
         "mime": "image\/png",
         "transparent": true,
         "size": 282144
+      }
+    ]
+  },
+  "stelato": {
+    "name": "Stelato",
+    "code": "STELATO",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/stelato-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 2016
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/stelato-logo-500x600.png",
+        "width": 500,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 17194
       }
     ]
   },
@@ -8005,6 +8552,28 @@
       }
     ]
   },
+  "vinfast": {
+    "name": "VinFast",
+    "code": "VINFAST",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/vinfast-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 22971
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/vinfast-logo-1200x300.png",
+        "width": 1200,
+        "height": 300,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 56132
+      }
+    ]
+  },
   "viper": {
     "name": "Viper",
     "code": "VIPER",
@@ -8172,6 +8741,28 @@
       }
     ]
   },
+  "weltmeister": {
+    "name": "Weltmeister",
+    "code": "WELTMEISTER",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/weltmeister-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 3732
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/weltmeister-logo-1200x500.png",
+        "width": 1200,
+        "height": 500,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 22377
+      }
+    ]
+  },
   "western-star": {
     "name": "Western Star",
     "code": "WESTERN_STAR",
@@ -8295,6 +8886,50 @@
       }
     ]
   },
+  "xcite": {
+    "name": "Xcite",
+    "code": "XCITE",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/xcite-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 3964
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/xcite-logo-1200x300.png",
+        "width": 1200,
+        "height": 300,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 12352
+      }
+    ]
+  },
+  "xiaomi": {
+    "name": "Xiaomi",
+    "code": "XIAOMI",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/xiaomi-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 2756
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/xiaomi-logo-600x600.png",
+        "width": 600,
+        "height": 600,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 8533
+      }
+    ]
+  },
   "xin-kai": {
     "name": "Xin kai",
     "code": "XIN_KAI",
@@ -8355,6 +8990,28 @@
       "size": 4495
     },
     "alternatives": []
+  },
+  "yudo": {
+    "name": "Yudo",
+    "code": "YUDO",
+    "logotype": {
+      "uri": "https:\/\/vl.imgix.net\/img\/yudo-logo.png",
+      "width": 240,
+      "height": 180,
+      "mime": "image\/png",
+      "transparent": true,
+      "size": 2352
+    },
+    "alternatives": [
+      {
+        "uri": "https:\/\/vl.imgix.net\/img\/yudo-logo-1200x300.png",
+        "width": 1200,
+        "height": 300,
+        "mime": "image\/png",
+        "transparent": true,
+        "size": 8525
+      }
+    ]
   },
   "yulon": {
     "name": "Yulon",
