@@ -9,9 +9,11 @@ The format is based on [Keep a Changelog][keepachangelog] and this project adher
 ### Added
 
 - Laravel `13.x` support
+- New logotypes: `aiways, changhe, cowin, cupra, enovate, everus, evolute, hanteng, hozon, hycan, icar, jidu, jonway, kandi, leapmotor, letin, luxeed, m-hero, maextro, mobilize, qiantu, simargl-elektro, stelato, vinfast, weltmeister, xcite, xiaomi, yudo`
 
 ### Changed
 
+- Updated logotypes: `chana, jaguar, kia, lamborghini, mazda, opel`
 - Version of `composer` in docker container updated up to `2.10.2`
 - Docker PHP image updated up to `8.5`
 - `phpstan/phpstan` updated up to `^1.12`
